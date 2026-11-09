@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-07",
+    "updated":  "2026-11-09",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -7,9 +7,9 @@
                        "dirKey":  "short",
                        "status":  "🆕",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-07",
-                       "count":  1,
-                       "note":  "CapCut-статья; хук+развязка в 1–2 склейках"
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "CapCut-статья (тот же источник всплыл снова)"
                    },
                    {
                        "name":  "Документальный реализм / phone-first cinematic",
@@ -42,14 +42,34 @@
                        "note":  "Opus.pro; противоположный полюс реализму"
                    },
                    {
-                       "name":  "Монтаж в бит / slow-mo шаблоны CapCut",
+                       "name":  "Монтаж в бит / автосинхронизация с ритмом",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "📈",
+                       "first":  "2026-11-07",
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "CapCut AI-шаблоны + YouTube Shorts beat-matching"
+                   },
+                   {
+                       "name":  "AI-ассистент монтажа в YouTube Shorts / Create (Gemini Omni)",
                        "dir":  "Short-form",
                        "dirKey":  "short",
                        "status":  "🆕",
-                       "first":  "2026-11-07",
-                       "last":  "2026-11-07",
+                       "first":  "2026-11-09",
+                       "last":  "2026-11-09",
                        "count":  1,
-                       "note":  "CapCut help: самые используемые шаблоны"
+                       "note":  "Made on YouTube 2026; сроки раскатки не названы"
+                   },
+                   {
+                       "name":  "Shorts Series (эпизоды/сезоны)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-09",
+                       "last":  "2026-11-09",
+                       "count":  1,
+                       "note":  "Made on YouTube 2026; сериальные форматы"
                    },
                    {
                        "name":  "Кинетическая типографика как главный визуал",
@@ -57,9 +77,9 @@
                        "dirKey":  "motion",
                        "status":  "🆕",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-07",
-                       "count":  1,
-                       "note":  "Движок — просмотр без звука; должна быстро «разрешаться»"
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "Вендорские обзоры 2026; без новых фактов"
                    },
                    {
                        "name":  "Гибрид CG + AI в студийном пайплайне; фото → 3D-сцена (EVRN)",
@@ -72,14 +92,24 @@
                        "note":  "School of Motion, Motion Mondays 19.10.2026"
                    },
                    {
-                       "name":  "Адаптивные графические шаблоны (OGraf под aspect ratio)",
+                       "name":  "Адаптивные графические шаблоны (OGraf)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "📈",
+                       "first":  "2026-11-07",
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "Resolve 21.1.2 → 21.2 (фиксы сетевых/zip-путей, рендера)"
+                   },
+                   {
+                       "name":  "Cavalry Pro-функции бесплатно",
                        "dir":  "Motion",
                        "dirKey":  "motion",
                        "status":  "🆕",
-                       "first":  "2026-11-07",
-                       "last":  "2026-11-07",
+                       "first":  "2026-11-09",
+                       "last":  "2026-11-09",
                        "count":  1,
-                       "note":  "Resolve 21.1.2"
+                       "note":  "Cavalry 2.7, 16.04.2026"
                    },
                    {
                        "name":  "AI-воркфлоу в брендовых короткометражках",
@@ -92,34 +122,54 @@
                        "note":  "CapCut × MASSIVE Studios, праздничные фильмы"
                    },
                    {
-                       "name":  "AI-креатив в ТВ-рекламе",
+                       "name":  "AI-креатив в ТВ/праздничной рекламе (и риск бэклэша)",
+                       "dir":  "Кино/реклама",
+                       "dirKey":  "cinema",
+                       "status":  "📈",
+                       "first":  "2026-11-07",
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "56% рекл. рук. (MNTN); бэклэш 2025: McDonald\u0027s NL, Coca-Cola"
+                   },
+                   {
+                       "name":  "Camerimage 2026 (вкл. конкурс клипов)",
                        "dir":  "Кино/реклама",
                        "dirKey":  "cinema",
                        "status":  "🆕",
-                       "first":  "2026-11-07",
-                       "last":  "2026-11-07",
+                       "first":  "2026-11-09",
+                       "last":  "2026-11-09",
                        "count":  1,
-                       "note":  "56% рекл. руководителей (опрос через MNTN)"
+                       "note":  "Торунь 7–14.11; отследить победителей"
                    },
                    {
-                       "name":  "Kling 4.0: 30 с, 4K, 10-bit HDR, Omni Reference",
+                       "name":  "Длинные генерации 30 с (Kling 4.0, Seedance 2.5)",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "📈",
+                       "first":  "2026-11-07",
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "Kling 4.0 — 15.10; Seedance 2.5 в CapCut — 31.07 (до 50 референсов)"
+                   },
+                   {
+                       "name":  "Промпт/диалоговый монтаж (CapCut EditPilot, Gemini Omni multi-turn, YouTube ассистент)",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "📈",
+                       "first":  "2026-11-07",
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "Omni 1.2 Flash 05.11: правки без перегенерации"
+                   },
+                   {
+                       "name":  "Gemini Omni 1.2 Flash",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
                        "status":  "🆕",
-                       "first":  "2026-11-07",
-                       "last":  "2026-11-07",
+                       "first":  "2026-11-09",
+                       "last":  "2026-11-09",
                        "count":  1,
-                       "note":  "Релиз 15.10.2026; продление до 2 мин — позже"
-                   },
-                   {
-                       "name":  "Промпт-монтаж внутри редактора (CapCut EditPilot, Interactive Edit)",
-                       "dir":  "AI/софт",
-                       "dirKey":  "ai",
-                       "status":  "🆕",
-                       "first":  "2026-11-07",
-                       "last":  "2026-11-07",
-                       "count":  1,
-                       "note":  "CapCut World LA 27.10.2026; плагин ChatGPT скоро; Лондон — ноябрь"
+                       "note":  "05.11.2026; 3–15 с, $0.07/с 720p, Flow/Vids/API, SynthID"
                    },
                    {
                        "name":  "Генерация на таймлайне Premiere (Generative Media Tool)",
@@ -132,14 +182,14 @@
                        "note":  "IBC 08.09.2026; Firefly/Veo/Kling/Runway/Luma"
                    },
                    {
-                       "name":  "AI-ассистенты в монтажках (AE AI Assistant beta, Resolve 21.1 AI)",
+                       "name":  "AI-ассистенты в монтажках (AE AI Assistant beta, Resolve AI)",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-07",
-                       "count":  1,
-                       "note":  "Resolve 21.1 — 08.09.2026; 21.1.2 — конец окт."
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "Resolve 21.2 (04.11): AI для колора и Fusion"
                    },
                    {
                        "name":  "Проверка AI-происхождения контента",
@@ -147,23 +197,34 @@
                        "dirKey":  "ai",
                        "status":  "🆕",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-07",
-                       "count":  1,
-                       "note":  "Пилот CapCut AI transparency tool"
+                       "last":  "2026-11-09",
+                       "count":  2,
+                       "note":  "Пилот CapCut; SynthID в Gemini Omni"
                    }
                ],
     "insights":  [
                      "2026-11-07: AI в монтажном софте смещается от генерации отдельных клипов к правкам командами внутри редактора (CapCut EditPilot, Premiere Generative Media Tool, AI-ассистенты AE/Resolve).",
                      "2026-11-07: Short-form поляризуется: перегруз (brainrot stack) против сдержанного «документального» киношного стиля.",
-                     "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, No Film School, School of Motion."
+                     "2026-11-09: Многошаговая правка диалогом стала стандартом у Google, YouTube и CapCut; длина генерации 15–30 с — норма. Ценность монтажёра — точечная доработка и стиль, а не сборка черновика.",
+                     "2026-11-09: Авто-бит-синк и AI-черновики встраиваются в сами платформы (YouTube Shorts) — базовая ритмическая склейка коммодитизируется.",
+                     "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, School of Motion, blog.google. Motion Mondays за ноябрь поиск не находит — открывать schoolofmotion.com напрямую."
                  ],
     "events":  [
-                   "Adobe MAX 2026: 10–12.11, Майами-Бич — ждать анонсы Premiere/AE/Firefly (проверить 2026-11-12+).",
-                   "CapCut World London — ноябрь 2026.",
+                   "Adobe MAX 2026: 10–12.11, Майами-Бич — сессии Premiere Color Mode и моушн в AE; проверить анонсы в следующем запуске.",
+                   "Camerimage 2026: 7–14.11, Торунь — проверить победителей (особенно конкурс клипов) после 14.11.",
+                   "CapCut World London — ноябрь 2026 (точная дата не найдена).",
+                   "Resolve Studio: скидка до 20.11.2026 (источники расходятся в цене: $239 / $236).",
+                   "Google: линейка видео смещается на Gemini Omni (1.2 Flash — 05.11); Veo 3.1 Lite/Fast/Quality ещё в Flow (по одному источнику).",
                    "Sora: веб/приложение закрыты 26.04.2026 (по сторонним источникам) — не считать активным инструментом.",
-                   "Runway: последняя подтверждённая модель — Gen-4.5 (дек. 2025). Veo: 3.1 / 3.1 Lite (март 2026)."
+                   "Runway: последняя подтверждённая модель — Gen-4.5 (дек. 2025); есть неподтверждённые сведения, что Runway продаёт чужие модели (Kling, Seedance, Wan, Veo).",
+                   "Праздничный рекламный сезон 2026 начинается — следить за AI-роликами брендов и реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-09",
+                        "preview":  "Google выпустил Gemini Omni 1.2 Flash: клипы до 15 с и правки диалогом, без перегенерации.",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 09.11.2026\u003c/b\u003e\n\n📊 \u003cb\u003eИтоги недели\u003c/b\u003e\nБаза знаний ведётся только с 07.11, поэтому полной истории за 7 дней пока нет. Пошли вверх 📈 правки текстовыми командами (теперь ещё Gemini Omni и YouTube Shorts) и AI-ассистенты в монтажках (Resolve 21.2). Угасающих трендов пока нет.\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• 05.11 Google выпустил Gemini Omni 1.2 Flash: клипы до 15 с и правки диалогом, без перегенерации.\n• 04.11 вышел DaVinci Resolve 21.2: ассистент AI для колора и Fusion, ускорение эффектов на M5 до 5 раз.\n• Завтра стартует Adobe MAX (10–12.11), сейчас идёт Camerimage (7–14.11).\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 🆕 \u003cb\u003eAI-ассистент монтажа в YouTube Shorts и YouTube Create.\u003c/b\u003e На Made on YouTube 2026 анонсировали ассистента на Gemini Omni, который монтирует по командам диалогом, и в любой момент можно перейти на ручной монтаж. Сроки выхода не названы. Вертикальный черновик скоро будет собираться прямо в приложении, так что монтажёру выгоднее продавать доводку и стиль. \u003ca href=\"https://uppbeat.io/blog/creator-news/made-on-youtube-2026-brings-new-youtube-tools-for-editing-earning-and-more\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eShorts Series.\u003c/b\u003e Шортсы можно собирать в эпизоды и сезоны. Это намекает на рост сериальных форматов: нужны единые интро, плашки серий и клиффхэнгеры в конце. \u003ca href=\"https://uppbeat.io/blog/creator-news/made-on-youtube-2026-brings-new-youtube-tools-for-editing-earning-and-more\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eСклейка в бит становится автоматической.\u003c/b\u003e YouTube обещает автосинхронизацию клипов с ритмом трека, а AI-шаблоны CapCut уже подгоняют под бит переходы. Ручная склейка в бит перестаёт быть преимуществом, ценятся акценты внутри такта. \u003ca href=\"https://www.engadget.com/apps/youtube-is-updating-the-shorts-video-editor-to-make-it-a-better-alternative-to-tiktok-182932945.html\"\u003eисточник\u003c/a\u003e\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• Свежих подтверждённых релизов за неделю нет: в индустрии затишье перед Adobe MAX, где есть отдельная сессия по моушн-дизайну в After Effects. \u003ca href=\"https://www.redsharknews.com/adobe-max-2026-preview-miami-beach\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eАдаптивные OGraf-шаблоны.\u003c/b\u003e В Resolve 21.2 исправили загрузку OGraf из сетевых и zip-путей, тайм-ауты рендера и расход памяти. Теперь шаблоны графики можно раздавать команде по сети. \u003ca href=\"https://www.newsshooter.com/2026/11/04/blackmagic-design-davinci-resolve-21-2/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eCavalry отдал Pro-функции бесплатно\u003c/b\u003e (версия 2.7, 16.04.2026). Это не новость недели, но сильный повод попробовать процедурный моушн как альтернативу AE. \u003ca href=\"https://cavalry.studio/docs/tech-info/release-notes/2.7/2-7-0-release-notes/\"\u003eисточник\u003c/a\u003e\n\n🎞 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 🆕 \u003cb\u003eCamerimage 2026 (Торунь, 7–14.11).\u003c/b\u003e Главный фестиваль операторов, в нём есть конкурс музыкальных клипов. Ближайшие недели стоит следить за победителями: по ним видно, куда идут грейдинг и визуальный язык. \u003ca href=\"https://britishcinematographer.co.uk/camerimage-film-festival-2026-opens-submissions/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eAI-реклама к праздникам и риск негатива.\u003c/b\u003e Сезон 2026 только начинается. В 2025 McDonald\u0027s Нидерланды снял полностью сгенерированный ролик через 3 дня из-за волны критики, а AI-ремейк Coca-Cola снова ругали за «бездушность». Монтажёру отсюда вывод: в гибридных роликах решают живые эмоции и чистка AI-артефактов. \u003ca href=\"https://www.washingtontimes.com/news/2025/dec/11/mcdonalds-netherlands-pulls-ai-ad-parodied-christmas-song/\"\u003eисточник\u003c/a\u003e\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 🆕 \u003cb\u003eGemini Omni 1.2 Flash (05.11).\u003c/b\u003e Генерация и правка клипов от 3 до 15 с, многошаговое редактирование диалогом (сменить фон, свет, продукт, соотношение сторон) и референсы картинкой, коротким движением или звуком. Цена $0.07/с за 720p. Доступен в Flow и Google Vids, в Vids без доплаты. \u003ca href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eDaVinci Resolve 21.2 (04.11).\u003c/b\u003e Добавили тач-экран MacBook Pro, LUT Gen 6, ResolveFX False Color, компаунд-клип из in/out прямо на месте, сохранение исходного таймкода у извлечённого аудио и улучшенный ассистент AI для колора и Fusion. \u003ca href=\"https://www.newsshooter.com/2026/11/04/blackmagic-design-davinci-resolve-21-2/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eДлинные генерации в CapCut.\u003c/b\u003e Seedance 2.5 даёт до 30 с и до 50 референсов на клип, а кусок по таймкоду можно править точечно. Вместе с Kling 4.0 планка «30 секунд за один проход» стала нормой. \u003ca href=\"https://www.capcut.com/newsroom/giving-creators-more-control-with-dreamina-seedance-2-5-and-dola-seedream-5-0-pro\"\u003eисточник\u003c/a\u003e\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nResolve 21.2: соберёшь short за 20 минут. Положи на таймлайн 9:16 сырой материал на 30–40 с. Отметь in/out на первых 3 секундах (хук) и командой создания компаунд-клипа из диапазона упакуй его на месте. Покрась компаунд отдельно: чуть больше контраста и тёплые тени, чтобы хук визуально «выпрыгивал». Затем включи ResolveFX False Color на корректирующем слое и выровняй экспозицию всех планов по одной зоне. В конце сравни с версией без отдельного хука.\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nПравка диалогом стала стандартом сразу у Google (Omni 1.2), YouTube и CapCut. Генерации длиннее 15–30 с уже норма, и ценность смещается от генерации к точечной доработке готового клипа.\n"
+                    },
                     {
                         "date":  "2026-11-07",
                         "preview":  "Kling 4.0: 30 секунд за один проход, 4K, 10-bit HDR и до 10 ключевых кадров.",
