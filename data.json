@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-09",
+    "updated":  "2026-11-10",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -45,11 +45,11 @@
                        "name":  "Монтаж в бит / автосинхронизация с ритмом",
                        "dir":  "Short-form",
                        "dirKey":  "short",
-                       "status":  "📈",
+                       "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-09",
-                       "count":  2,
-                       "note":  "CapCut AI-шаблоны + YouTube Shorts beat-matching"
+                       "last":  "2026-11-10",
+                       "count":  3,
+                       "note":  "CapCut AI-шаблоны + YouTube Shorts; 10.11: «стал дефолтом, а не отличием» (Futuregold)"
                    },
                    {
                        "name":  "AI-ассистент монтажа в YouTube Shorts / Create (Gemini Omni)",
@@ -75,11 +75,11 @@
                        "name":  "Кинетическая типографика как главный визуал",
                        "dir":  "Motion",
                        "dirKey":  "motion",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-09",
-                       "count":  2,
-                       "note":  "Вендорские обзоры 2026; без новых фактов"
+                       "last":  "2026-11-10",
+                       "count":  3,
+                       "note":  "Вендорские обзоры 2026; стабильно №1 в списках"
                    },
                    {
                        "name":  "Гибрид CG + AI в студийном пайплайне; фото → 3D-сцена (EVRN)",
@@ -127,19 +127,19 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-09",
-                       "count":  2,
-                       "note":  "56% рекл. рук. (MNTN); бэклэш 2025: McDonald\u0027s NL, Coca-Cola"
+                       "last":  "2026-11-10",
+                       "count":  3,
+                       "note":  "56% рекл. рук. (MNTN); бэклэш 2025: McDonald\u0027s NL, Coca-Cola; 2026: AI-ролик Coca-Cola не найден, live-action John Lewis (03.11) — 5.6★ System1"
                    },
                    {
                        "name":  "Camerimage 2026 (вкл. конкурс клипов)",
                        "dir":  "Кино/реклама",
                        "dirKey":  "cinema",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-09",
-                       "count":  1,
-                       "note":  "Торунь 7–14.11; отследить победителей"
+                       "last":  "2026-11-10",
+                       "count":  2,
+                       "note":  "Торунь 7–14.11; номинант клипов: BTS «SWIM»; отследить победителей"
                    },
                    {
                        "name":  "Длинные генерации 30 с (Kling 4.0, Seedance 2.5)",
@@ -177,8 +177,8 @@
                        "dirKey":  "ai",
                        "status":  "🆕",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-07",
-                       "count":  1,
+                       "last":  "2026-11-10",
+                       "count":  2,
                        "note":  "IBC 08.09.2026; Firefly/Veo/Kling/Runway/Luma"
                    },
                    {
@@ -187,8 +187,8 @@
                        "dirKey":  "ai",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-09",
-                       "count":  2,
+                       "last":  "2026-11-10",
+                       "count":  3,
                        "note":  "Resolve 21.2 (04.11): AI для колора и Fusion"
                    },
                    {
@@ -200,6 +200,46 @@
                        "last":  "2026-11-09",
                        "count":  2,
                        "note":  "Пилот CapCut; SynthID в Gemini Omni"
+                   },
+                   {
+                       "name":  "Instagram First Draft (авто-черновик рилса)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-10",
+                       "last":  "2026-11-10",
+                       "count":  1,
+                       "note":  "25.08.2026, iPhone; AI-ассистент для Edits в разработке"
+                   },
+                   {
+                       "name":  "Форматы с отложенной развязкой (payoff)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-10",
+                       "last":  "2026-11-10",
+                       "count":  1,
+                       "note":  "SocialPilot/Startups: звуковые тренды живут 7–10 дн, форматы дольше"
+                   },
+                   {
+                       "name":  "Тактильный хендмейд (зерно, бумага, рваные края, низкий fps)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "🆕",
+                       "first":  "2026-11-10",
+                       "last":  "2026-11-10",
+                       "count":  1,
+                       "note":  "Videobolt (12.2025): ответ на усталость от AI-глянца"
+                   },
+                   {
+                       "name":  "Apple Creator Studio Nov: MotionVFX в FCP/Motion, Generate Fill",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "🆕",
+                       "first":  "2026-11-10",
+                       "last":  "2026-11-10",
+                       "count":  1,
+                       "note":  "Анонс 27.10, выход в ноябре; Motion: 3D-трекинг, Displacement; FCP 12.4 — текущая"
                    }
                ],
     "insights":  [
@@ -207,19 +247,26 @@
                      "2026-11-07: Short-form поляризуется: перегруз (brainrot stack) против сдержанного «документального» киношного стиля.",
                      "2026-11-09: Многошаговая правка диалогом стала стандартом у Google, YouTube и CapCut; длина генерации 15–30 с — норма. Ценность монтажёра — точечная доработка и стиль, а не сборка черновика.",
                      "2026-11-09: Авто-бит-синк и AI-черновики встраиваются в сами платформы (YouTube Shorts) — базовая ритмическая склейка коммодитизируется.",
-                     "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, School of Motion, blog.google. Motion Mondays за ноябрь поиск не находит — открывать schoolofmotion.com напрямую."
+                     "2026-11-10: Чем больше платформы автоматизируют черновик и бит-синк (Instagram First Draft, YouTube, CapCut), тем выше ценность заметно «человеческой» работы: фактуры в моушне, живых съёмок и эмоции в рекламе.",
+                     "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, School of Motion, blog.google. Motion Mondays за ноябрь поиск не находит — открывать schoolofmotion.com напрямую. news.adobe.com показывает мало релизов — анонсы MAX искать через RedShark/No Film School/blog.adobe.com."
                  ],
     "events":  [
-                   "Adobe MAX 2026: 10–12.11, Майами-Бич — сессии Premiere Color Mode и моушн в AE; проверить анонсы в следующем запуске.",
+                   "Adobe MAX 2026: 10–12.11, Майами-Бич (кейноут 10.11, 9:00 EST). В следующем запуске разобрать анонсы Premiere/AE/Firefly; на 10.11 их ещё не было в выдаче.",
                    "Camerimage 2026: 7–14.11, Торунь — проверить победителей (особенно конкурс клипов) после 14.11.",
-                   "CapCut World London — ноябрь 2026 (точная дата не найдена).",
+                   "Apple Creator Studio: ноябрьское обновление FCP/Motion/Pixelmator — проверить выход и номер версии (упоминается FCP v13, не подтверждено).",
+                   "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: есть APK-тирдаун (04.11), официально не подтверждено.",
                    "Resolve Studio: скидка до 20.11.2026 (источники расходятся в цене: $239 / $236).",
                    "Google: линейка видео смещается на Gemini Omni (1.2 Flash — 05.11); Veo 3.1 Lite/Fast/Quality ещё в Flow (по одному источнику).",
                    "Sora: веб/приложение закрыты 26.04.2026 (по сторонним источникам) — не считать активным инструментом.",
-                   "Runway: последняя подтверждённая модель — Gen-4.5 (дек. 2025); есть неподтверждённые сведения, что Runway продаёт чужие модели (Kling, Seedance, Wan, Veo).",
-                   "Праздничный рекламный сезон 2026 начинается — следить за AI-роликами брендов и реакцией."
+                   "Runway: последняя подтверждённая модель — Gen-4.5 (дек. 2025); агрегаторы упоминают GWM Worlds 2 (03.09.2026) и Aleph 2.0 — не подтверждено официально.",
+                   "Праздничный рекламный сезон 2026: John Lewis вышел 03.11 (live-action); следить за AI-роликами (Coca-Cola и др.) и реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-10",
+                        "preview":  "Сегодня в 9:00 EST открывающий кейноут Adobe MAX. Анонсов ещё нет, разбор будет в следующем отчёте.",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 10.11.2026\u003c/b\u003e\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• Сегодня в 9:00 EST открывающий кейноут Adobe MAX. Анонсов ещё нет, разбор будет в следующем отчёте.\n• Apple в ноябре выпускает обновление Creator Studio: в Final Cut Pro встроят MotionVFX, а в Pixelmator Pro появится Generate Fill.\n• Рождественский ролик John Lewis 2026 снят вживую и получил у System1 оценку 5,6 звезды, лучший результат бренда с 2019 года.\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 🆕 \u003cb\u003eFirst Draft в Instagram.\u003c/b\u003e Функция сама режет выбранные клипы, убирает паузы и меньше чем за 10 с собирает черновой рилс. Пока только на iPhone, а для приложения Edits Meta готовит AI-ассистента. Черновую сборку теперь делает сам Instagram, поэтому клиенту стоит продавать доводку. \u003ca href=\"https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/\"\u003eисточник\u003c/a\u003e\n• 🔥 \u003cb\u003eСклейка в бит стала нормой.\u003c/b\u003e Обзоры TikTok-трендов пишут прямо: бит-синк по-прежнему работает, но выделиться им уже нельзя. Выделяют ролик акценты внутри такта и смысловые паузы. \u003ca href=\"https://futuregoldmedia.com/goldmineblog/annoying-tiktok-trends\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eФорматы с отложенной развязкой.\u003c/b\u003e Пример: летнее видео подписано как реакция на «сегодняшнее утро», и зритель досматривает ради разгадки. Звуковые тренды в TikTok живут 7–10 дней, форматы держатся дольше. \u003ca href=\"https://www.socialpilot.co/blog/tiktok-trends\"\u003eисточник\u003c/a\u003e\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• 🆕 \u003cb\u003eТактильный хендмейд против AI-глянца.\u003c/b\u003e В моде рисованные линии, зерно, фактура бумаги, рваные края и пониженный фреймрейт. Главное, чтобы в работе были видны решения человека. Пресеты зерна и step-анимация на 12 fps снова в цене. \u003ca href=\"https://blog.videobolt.net/post/top-motion-graphics-trends-2026\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eКинетическая типографика.\u003c/b\u003e Обзоры 2026 года продолжают ставить её на первое место: шортсы часто смотрят без звука, и смысл несёт текст. \u003ca href=\"https://autoae.online/blog/motion-graphics-trends-2026\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eMotion и FCP в ноябрьском обновлении.\u003c/b\u003e В Motion добавят встроенный 3D-трекинг камеры от MotionVFX и фильтр Displacement, в FCP появятся более тонкие кривые изинга на ключах. \u003ca href=\"https://www.newsshooter.com/2026/10/27/apple-creator-studio-brings-built-in-motionvfx-content-to-final-cut-pro/\"\u003eисточник\u003c/a\u003e\n\n🎞 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 📈 \u003cb\u003eЖивая реклама сильнее AI-роликов.\u003c/b\u003e «Gloria and Pickles» от John Lewis (вышел 03.11) снят вживую: Кристин Скотт Томас, говорящая игрушечная собака и кавер Сэма Фендера. Это лучший результат бренда по System1 с 2019 года. Свежего AI-ролика Coca-Cola на 2026 год я пока не нашёл. \u003ca href=\"https://retailtimes.co.uk/dont-give-up-on-giving-john-lewis-unveils-its-2026-christmas-advert-starring-dame-kristin-scott-thomas-with-new-music-from-sam-fender/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eCamerimage 2026 (до 14.11).\u003c/b\u003e Среди номинантов на лучший клип есть BTS «SWIM». Полный список и победителей разберу после закрытия фестиваля. \u003ca href=\"https://www.starnewskorea.com/en/music/2026/10/21/2026102115455227634\"\u003eисточник\u003c/a\u003e\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 🆕 \u003cb\u003eApple Creator Studio, ноябрьское обновление.\u003c/b\u003e В FCP будут встроены шаблоны, ротоскоп и колор от MotionVFX, Content Hub со стоком, обмен файлами с Pixelmator Pro без реимпорта и 23 новых языка транскрипции. В Pixelmator Pro появится Generate Fill по текстовому запросу. Для подписчиков бесплатно, подписка стоит $12.99 в месяц. \u003ca href=\"https://www.newsshooter.com/2026/10/27/apple-creator-studio-brings-built-in-motionvfx-content-to-final-cut-pro/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eAdobe MAX (10–12.11).\u003c/b\u003e Подтверждены сессии по моушну в AE (Нол Хониг, 11.11) и «Cut by Ear» о звуке в монтаже клипов и рекламы (Винни Хоббс). Generative Media Tool в Premiere и AI-ассистент AE уже вышли до MAX. \u003ca href=\"https://blog.adobe.com/en/publish/2026/11/05/best-sessions-to-attend-adobe-max-2026\"\u003eисточник\u003c/a\u003e\n• Runway, Kling и Veo: новых подтверждённых релизов за неделю нет.\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nТактильный титр в AE за 30 минут. Сделай заголовок из 2–3 слов и анимируй его по словам. Повесь на слой Posterize Time 12 fps, чтобы получить «рукотворную» дёрганость. Добавь Turbulent Displace с малым Amount и анимацией Evolution через wiggle, чтобы края «дышали». Сверху положи скан бумаги в режиме Multiply и Noise около 4%. Сравни с гладкой версией на 60 fps: какая лучше читается в ленте без звука?\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nЧерновую сборку (Instagram First Draft, YouTube, CapCut) и бит-синк платформы автоматизировали. В моушне и рекламе в ответ растёт спрос на заметно «человеческую» работу: фактуру, живые съёмки, эмоцию.\n"
+                    },
                     {
                         "date":  "2026-11-09",
                         "preview":  "Google выпустил Gemini Omni 1.2 Flash: клипы до 15 с и правки диалогом, без перегенерации.",
