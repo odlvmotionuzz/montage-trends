@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10",
+    "updated":  "2026-11-12",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -47,9 +47,9 @@
                        "dirKey":  "short",
                        "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-10",
-                       "count":  3,
-                       "note":  "CapCut AI-шаблоны + YouTube Shorts; 10.11: «стал дефолтом, а не отличием» (Futuregold)"
+                       "last":  "2026-11-12",
+                       "count":  4,
+                       "note":  "CapCut AI-шаблоны, YouTube Shorts; «дефолт, а не отличие» (Futuregold); 12.11 — CapCut RU help"
                    },
                    {
                        "name":  "AI-ассистент монтажа в YouTube Shorts / Create (Gemini Omni)",
@@ -72,13 +72,43 @@
                        "note":  "Made on YouTube 2026; сериальные форматы"
                    },
                    {
+                       "name":  "Авто-черновик рилса (Instagram First Draft, Premiere mobile Creative Agent)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "📈",
+                       "first":  "2026-11-10",
+                       "last":  "2026-11-12",
+                       "count":  2,
+                       "note":  "IG: 25.08.2026, iPhone. Premiere mobile: закрытая бета (MAX 10.11), + лиценз. музыка для некоммерч. видео"
+                   },
+                   {
+                       "name":  "Форматы с отложенной развязкой (payoff)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-10",
+                       "last":  "2026-11-10",
+                       "count":  1,
+                       "note":  "SocialPilot/Startups: звуковые тренды живут 7–10 дн, форматы дольше"
+                   },
+                   {
+                       "name":  "Панорамные рилсы 32:9 (5120×1080)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-12",
+                       "last":  "2026-11-12",
+                       "count":  1,
+                       "note":  "postium.ru, статья от 29.09.2025 — не свежий, но в базе не было"
+                   },
+                   {
                        "name":  "Кинетическая типографика как главный визуал",
                        "dir":  "Motion",
                        "dirKey":  "motion",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-10",
-                       "count":  3,
+                       "last":  "2026-11-12",
+                       "count":  4,
                        "note":  "Вендорские обзоры 2026; стабильно №1 в списках"
                    },
                    {
@@ -102,14 +132,44 @@
                        "note":  "Resolve 21.1.2 → 21.2 (фиксы сетевых/zip-путей, рендера)"
                    },
                    {
-                       "name":  "Cavalry Pro-функции бесплатно",
+                       "name":  "Cavalry/Autograph бесплатно",
                        "dir":  "Motion",
                        "dirKey":  "motion",
                        "status":  "🆕",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-09",
+                       "last":  "2026-11-12",
+                       "count":  2,
+                       "note":  "Cavalry 2.7 (16.04.2026); SoM 09.11: Cavalry и Autograph «went free»"
+                   },
+                   {
+                       "name":  "Тактильный хендмейд (зерно, бумага, рваные края, низкий fps)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "📈",
+                       "first":  "2026-11-10",
+                       "last":  "2026-11-12",
+                       "count":  2,
+                       "note":  "Videobolt (12.2025); Designity (06.2026): intentional imperfection"
+                   },
+                   {
+                       "name":  "Моушн в Figma/Rive (UI/продуктовый, интерактивный)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "🆕",
+                       "first":  "2026-11-12",
+                       "last":  "2026-11-12",
                        "count":  1,
-                       "note":  "Cavalry 2.7, 16.04.2026"
+                       "note":  "Figma анимация, SoM курс Figma Design for Motion 23.11; Rive scripting + GPU Canvas; Duolingo купила Animade"
+                   },
+                   {
+                       "name":  "AI-кеинг и ротоскоп (CorridorKey, Object Matte, LTX Alpha Gen)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "🆕",
+                       "first":  "2026-11-12",
+                       "last":  "2026-11-12",
+                       "count":  1,
+                       "note":  "SoM 09.11; там же — разрыв демо/реальности (тесты Higgsfield)"
                    },
                    {
                        "name":  "AI-воркфлоу в брендовых короткометражках",
@@ -127,9 +187,9 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-10",
-                       "count":  3,
-                       "note":  "56% рекл. рук. (MNTN); бэклэш 2025: McDonald\u0027s NL, Coca-Cola; 2026: AI-ролик Coca-Cola не найден, live-action John Lewis (03.11) — 5.6★ System1"
+                       "last":  "2026-11-12",
+                       "count":  4,
+                       "note":  "Бэклэш 2025: McDonald\u0027s NL, Coca-Cola. 2026: John Lewis live-action (5.6★); Coca-Cola AI-грузовики 3-й год (The Drum, 09.11, колонка)"
                    },
                    {
                        "name":  "Camerimage 2026 (вкл. конкурс клипов)",
@@ -137,9 +197,19 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-10",
-                       "count":  2,
-                       "note":  "Торунь 7–14.11; номинант клипов: BTS «SWIM»; отследить победителей"
+                       "last":  "2026-11-12",
+                       "count":  3,
+                       "note":  "Торунь 7–14.11; номинант клипов: BTS «SWIM»; победителей ещё нет"
+                   },
+                   {
+                       "name":  "Грейдинг внутри Premiere (Color Mode GA)",
+                       "dir":  "Кино/реклама",
+                       "dirKey":  "cinema",
+                       "status":  "🆕",
+                       "first":  "2026-11-12",
+                       "last":  "2026-11-12",
+                       "count":  1,
+                       "note":  "Анонс NAB 2026, GA на MAX 10.11.2026"
                    },
                    {
                        "name":  "Длинные генерации 30 с (Kling 4.0, Seedance 2.5)",
@@ -152,14 +222,14 @@
                        "note":  "Kling 4.0 — 15.10; Seedance 2.5 в CapCut — 31.07 (до 50 референсов)"
                    },
                    {
-                       "name":  "Промпт/диалоговый монтаж (CapCut EditPilot, Gemini Omni multi-turn, YouTube ассистент)",
+                       "name":  "Промпт/диалоговый монтаж (CapCut EditPilot, Gemini Omni, YouTube, Premiere mobile)",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
-                       "status":  "📈",
+                       "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-09",
-                       "count":  2,
-                       "note":  "Omni 1.2 Flash 05.11: правки без перегенерации"
+                       "last":  "2026-11-12",
+                       "count":  3,
+                       "note":  "Omni 1.2 Flash 05.11; Premiere mobile — правки естественным языком"
                    },
                    {
                        "name":  "Gemini Omni 1.2 Flash",
@@ -167,29 +237,49 @@
                        "dirKey":  "ai",
                        "status":  "🆕",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-09",
-                       "count":  1,
-                       "note":  "05.11.2026; 3–15 с, $0.07/с 720p, Flow/Vids/API, SynthID"
+                       "last":  "2026-11-12",
+                       "count":  2,
+                       "note":  "05.11.2026; 3–15 с; Veo 3.1 Preview в Gemini API закрыт 22.10"
                    },
                    {
                        "name":  "Генерация на таймлайне Premiere (Generative Media Tool)",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
-                       "status":  "🆕",
+                       "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-10",
-                       "count":  2,
-                       "note":  "IBC 08.09.2026; Firefly/Veo/Kling/Runway/Luma"
+                       "last":  "2026-11-12",
+                       "count":  3,
+                       "note":  "IBC 08.09; MAX: видео+SFX+саундскейп+музыка; Firefly/Google/Kling/Runway/Luma; лучше для темпа черновика"
                    },
                    {
-                       "name":  "AI-ассистенты в монтажках (AE AI Assistant beta, Resolve AI)",
+                       "name":  "AI-ассистенты/агенты в монтажках (Premiere/AE AI Assistant, Resolve AI, Firefly Plan Mode)",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
-                       "status":  "📈",
+                       "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-10",
-                       "count":  3,
-                       "note":  "Resolve 21.2 (04.11): AI для колора и Fusion"
+                       "last":  "2026-11-12",
+                       "count":  4,
+                       "note":  "MAX 10.11: Creative Agent беты в Premiere, AE, Frame.io; Firefly Plan Mode; Resolve 21.2 (05.11)"
+                   },
+                   {
+                       "name":  "MCP-интеграции креативного софта с AI-агентами",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "🆕",
+                       "first":  "2026-11-12",
+                       "last":  "2026-11-12",
+                       "count":  1,
+                       "note":  "Adobe: превью для AE/Premiere/PS/AI, CC — начало 2027; Maxon C4D MCP Server; Apple iWork MCP"
+                   },
+                   {
+                       "name":  "AI-разделение звука и Generative Remove в видео",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "🆕",
+                       "first":  "2026-11-12",
+                       "last":  "2026-11-12",
+                       "count":  1,
+                       "note":  "Premiere: Separate Crosstalk, Separate Sound Source, Enhance Audio; Generative Remove — бета"
                    },
                    {
                        "name":  "Проверка AI-происхождения контента",
@@ -202,44 +292,14 @@
                        "note":  "Пилот CapCut; SynthID в Gemini Omni"
                    },
                    {
-                       "name":  "Instagram First Draft (авто-черновик рилса)",
-                       "dir":  "Short-form",
-                       "dirKey":  "short",
-                       "status":  "🆕",
-                       "first":  "2026-11-10",
-                       "last":  "2026-11-10",
-                       "count":  1,
-                       "note":  "25.08.2026, iPhone; AI-ассистент для Edits в разработке"
-                   },
-                   {
-                       "name":  "Форматы с отложенной развязкой (payoff)",
-                       "dir":  "Short-form",
-                       "dirKey":  "short",
-                       "status":  "🆕",
-                       "first":  "2026-11-10",
-                       "last":  "2026-11-10",
-                       "count":  1,
-                       "note":  "SocialPilot/Startups: звуковые тренды живут 7–10 дн, форматы дольше"
-                   },
-                   {
-                       "name":  "Тактильный хендмейд (зерно, бумага, рваные края, низкий fps)",
-                       "dir":  "Motion",
-                       "dirKey":  "motion",
-                       "status":  "🆕",
-                       "first":  "2026-11-10",
-                       "last":  "2026-11-10",
-                       "count":  1,
-                       "note":  "Videobolt (12.2025): ответ на усталость от AI-глянца"
-                   },
-                   {
                        "name":  "Apple Creator Studio Nov: MotionVFX в FCP/Motion, Generate Fill",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
                        "status":  "🆕",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-10",
-                       "count":  1,
-                       "note":  "Анонс 27.10, выход в ноябре; Motion: 3D-трекинг, Displacement; FCP 12.4 — текущая"
+                       "last":  "2026-11-12",
+                       "count":  2,
+                       "note":  "Анонс 27.10, выход «в ноябре»; на 12.11 релиз не подтверждён"
                    }
                ],
     "insights":  [
@@ -248,20 +308,28 @@
                      "2026-11-09: Многошаговая правка диалогом стала стандартом у Google, YouTube и CapCut; длина генерации 15–30 с — норма. Ценность монтажёра — точечная доработка и стиль, а не сборка черновика.",
                      "2026-11-09: Авто-бит-синк и AI-черновики встраиваются в сами платформы (YouTube Shorts) — базовая ритмическая склейка коммодитизируется.",
                      "2026-11-10: Чем больше платформы автоматизируют черновик и бит-синк (Instagram First Draft, YouTube, CapCut), тем выше ценность заметно «человеческой» работы: фактуры в моушне, живых съёмок и эмоции в рекламе.",
-                     "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, School of Motion, blog.google. Motion Mondays за ноябрь поиск не находит — открывать schoolofmotion.com напрямую. news.adobe.com показывает мало релизов — анонсы MAX искать через RedShark/No Film School/blog.adobe.com."
+                     "2026-11-12: MCP становится общим мостом между AI-агентами и креативным софтом (Adobe CC, Maxon C4D, Apple iWork). Следующий шаг после «AI-кнопок» — агенты, работающие с родными проектами под контролем человека (Plan Mode). Навык монтажёра — ставить задачи агенту и проверять его правки.",
+                     "2026-11-12: Профессиональная пресса (Digital Production, SoM) сходится: генеративный контент сейчас ценен как временный материал для черновика/согласования темпа, а надёжнее всего AI в «скучных» задачах — кеинг, ротоскоп, разделение звука.",
+                     "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, Digital Production, AWN, School of Motion (Motion Mondays открывать напрямую по URL вида /blog/motion-mondays-\u003cмесяц\u003e-\u003cдень\u003e-2026), blog.google. The Drum и Creative Bloq через WebFetch возвращают пустую страницу — брать факты из сниппетов поиска с оговоркой. По MAX/крупным событиям лучше сразу mode \"extended\"."
                  ],
     "events":  [
-                   "Adobe MAX 2026: 10–12.11, Майами-Бич (кейноут 10.11, 9:00 EST). В следующем запуске разобрать анонсы Premiere/AE/Firefly; на 10.11 их ещё не было в выдаче.",
-                   "Camerimage 2026: 7–14.11, Торунь — проверить победителей (особенно конкурс клипов) после 14.11.",
-                   "Apple Creator Studio: ноябрьское обновление FCP/Motion/Pixelmator — проверить выход и номер версии (упоминается FCP v13, не подтверждено).",
-                   "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: есть APK-тирдаун (04.11), официально не подтверждено.",
-                   "Resolve Studio: скидка до 20.11.2026 (источники расходятся в цене: $239 / $236).",
-                   "Google: линейка видео смещается на Gemini Omni (1.2 Flash — 05.11); Veo 3.1 Lite/Fast/Quality ещё в Flow (по одному источнику).",
+                   "Adobe MAX 2026 прошёл 10–12.11. Следить: выход Generative Media Tool/аудио-инструментов из беты, страницы What\u0027s New Premiere/AE; локальный MCP для CC — начало 2027.",
+                   "Camerimage 2026: до 14.11, Торунь — проверить победителей (особенно конкурс клипов) в следующем запуске.",
+                   "Apple Creator Studio: ноябрьское обновление FCP/Motion/Pixelmator — проверить фактический выход и номер версии (текущая подтверждённая FCP — 12.3/12.4, источники расходятся).",
+                   "School of Motion: Figma Design for Motion — 23.11; портфолио-ревью 19.11.",
+                   "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: только APK-тирдаун (04.11).",
+                   "Resolve Studio: скидка 20% до 20.11.2026.",
+                   "Runway: Gen-4.5 остаётся флагманом; хостит сторонние модели (Kling, Seedance, Wan, Veo); legacy Unlimited → Max, старые планы без изменений до 30.11.2026.",
+                   "Google: видео-линейка на Gemini Omni (1.2 Flash GA 05.11); Veo 3.1 Preview в Gemini API закрыт 22.10.",
                    "Sora: веб/приложение закрыты 26.04.2026 (по сторонним источникам) — не считать активным инструментом.",
-                   "Runway: последняя подтверждённая модель — Gen-4.5 (дек. 2025); агрегаторы упоминают GWM Worlds 2 (03.09.2026) и Aleph 2.0 — не подтверждено официально.",
-                   "Праздничный рекламный сезон 2026: John Lewis вышел 03.11 (live-action); следить за AI-роликами (Coca-Cola и др.) и реакцией."
+                   "Праздничный рекламный сезон 2026: John Lewis (03.11, live-action), Coca-Cola AI (3-й год). Dior — критика за AI (дата не подтверждена). Следить за реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-12",
+                        "preview":  "Adobe MAX 2026: в Premiere вышел Color Mode (GA), анонсированы AI-ассистенты в Premiere и AE (бета) и Gener…",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 12.11.2026\u003c/b\u003e\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• Adobe MAX 2026: в Premiere вышел Color Mode (GA), анонсированы AI-ассистенты в Premiere и AE (бета) и Generative Remove (бета).\n• Adobe, Maxon и Apple подключают свой софт к AI-агентам через MCP: у Adobe это превью, Creative Cloud ждут в начале 2027.\n• Coca-Cola третий год подряд крутит AI-ролик с праздничными грузовиками, хотя сезон делают рукотворные ролики.\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 📈 \u003cb\u003eAI-черновик теперь есть и в Premiere mobile.\u003c/b\u003e Creative Agent на iPhone (закрытая бета) собирает редактируемый первый монтаж и правит его по текстовым запросам. Это та же логика, что у Instagram First Draft. Ещё в Premiere mobile открыли сотни тысяч лицензионных треков, но только для личных некоммерческих видео. \u003ca href=\"https://digitalproduction.com/2026/11/10/adobe-max-2026-ai-video-audio-premiere-creative-agent/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eПанорамные рилсы 32:9 (5120×1080).\u003c/b\u003e Узкая «киношная» полоса заметно выделяется в вертикальной ленте. Тренд не новый (статья 2025 года), но в базе его не было. Совет: титры делать крупными и по центру, планы по 2–3 с. \u003ca href=\"https://postium.ru/reels-5120-1080/\"\u003eисточник\u003c/a\u003e\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• 🆕 \u003cb\u003eMCP в моушн-софте.\u003c/b\u003e Adobe показала локальную MCP-интеграцию для AE: сторонний AI-агент правит родной проект, а слои остаются редактируемыми. У Maxon уже есть MCP-сервер для Cinema 4D. Рутину вроде переименования и раскладки слоёв скоро можно будет отдавать агенту. \u003ca href=\"https://www.awn.com/news/adobe-brings-ai-agents-after-effects-premiere-adobe-max-2026\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eFigma и Rive забирают часть моушна.\u003c/b\u003e В Figma появились функции анимации, School of Motion 23.11 запускает курс Figma Design for Motion. В Rive открыли скриптинг. Duolingo купила студию Animade. Для продуктового и UI-моушна AE теперь не единственный вариант. \u003ca href=\"https://schoolofmotion.com/blog/motion-mondays-november-9-2026\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eAI-кеинг и ротоскоп.\u003c/b\u003e Сейчас это самая практичная AI-категория: CorridorKey, Object Matte, LTX Alpha Gen. При этом проверки Higgsfield показывают разрыв между демо и результатом после правок. \u003ca href=\"https://schoolofmotion.com/blog/motion-mondays-november-9-2026\"\u003eисточник\u003c/a\u003e\n\n🎬 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 📈 \u003cb\u003eAI-реклама держится вопреки критике.\u003c/b\u003e Coca-Cola третий год показывает AI-ролик «Holidays Are Coming», в прайм-тайм. Колумнист The Drum считает, что бренды не отказываются от AI, раз результаты устраивают. Монтажёру стоит готовиться к гибридным заказам. \u003ca href=\"https://www.thedrum.com/opinion/coca-cola-wouldn-t-make-a-third-ai-christmas-ad-if-online-backlash-mattered-enough\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eГрейдинг прямо в Premiere.\u003c/b\u003e Color Mode стал общедоступным: это отдельная среда для быстрых правок и детальной коррекции. Многим монтажёрам на рекламе и клипах больше не нужен roundtrip в Resolve. \u003ca href=\"https://nofilmschool.com/adobe-max-2026-updates\"\u003eисточник\u003c/a\u003e\n• Camerimage идёт до 14.11, итогов конкурса клипов пока нет.\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 🔥 \u003cb\u003eГенерация в таймлайне Premiere.\u003c/b\u003e Generative Media Tool генерирует видео, SFX, саундскейпы и музыку на моделях Firefly, Google, Kling, Runway и Luma. Digital Production советует использовать результат как временный материал для черновика, а не для мастера. \u003ca href=\"https://digitalproduction.com/2026/11/10/adobe-max-2026-ai-video-audio-premiere-creative-agent/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eAI-разделение звука.\u003c/b\u003e Separate Crosstalk раскладывает перебивающих друг друга спикеров по отдельным дорожкам и в бете работает хорошо. Separate Sound Source вычленяет элементы из шумной записи. Generative Remove (бета) убирает из кадра микрофон-удочку или логотип. \u003ca href=\"https://nofilmschool.com/adobe-max-2026-updates\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eАгенты с планом.\u003c/b\u003e В Firefly AI Assistant (бета) появился Plan Mode: агент сначала показывает план действий и ждёт одобрения. Креативный AI движется от отдельных фич к агентам, которые работают под контролем человека. \u003ca href=\"https://digitalproduction.com/2026/11/10/adobe-max-2026-ai-video-audio-premiere-creative-agent/\"\u003eисточник\u003c/a\u003e\n• У Runway, Kling и Veo новых подтверждённых релизов нет. Выход ноябрьского обновления Apple Creator Studio пока не подтверждён.\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nПанорамный рилс 32:9 в Premiere или AE. Создай секвенцию 5120×1080 и разложи 6–8 планов по 2–3 с, ставя горизонт по центру. Высота полосы небольшая, поэтому титры делай крупным кеглем строго по центру. Добавь лёгкое зерно и letterbox-ощущение с медленным наездом 102→108%. Если Instagram добавит рамки, вложи секвенцию в проект 1080×1920 с размытым фоном сверху и снизу. Сравни досмотры с обычной вертикальной версией.\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nMCP превращается в общий мост между AI-агентами и креативным софтом: Adobe (AE, Premiere, PS, AI), Maxon (C4D), Apple (iWork). Монтажёру стоит учиться ставить агенту задачи и проверять его правки, а не только пользоваться отдельными AI-кнопками.\n"
+                    },
                     {
                         "date":  "2026-11-10",
                         "preview":  "Сегодня в 9:00 EST открывающий кейноут Adobe MAX. Анонсов ещё нет, разбор будет в следующем отчёте.",
