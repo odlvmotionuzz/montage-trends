@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-12",
+    "updated":  "2026-11-13",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -55,11 +55,11 @@
                        "name":  "AI-ассистент монтажа в YouTube Shorts / Create (Gemini Omni)",
                        "dir":  "Short-form",
                        "dirKey":  "short",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-09",
-                       "count":  1,
-                       "note":  "Made on YouTube 2026; сроки раскатки не названы"
+                       "last":  "2026-11-13",
+                       "count":  2,
+                       "note":  "Made on YouTube 2026; по ppc.land — правки чатом с Gemini в начале 2027"
                    },
                    {
                        "name":  "Shorts Series (эпизоды/сезоны)",
@@ -92,6 +92,16 @@
                        "note":  "SocialPilot/Startups: звуковые тренды живут 7–10 дн, форматы дольше"
                    },
                    {
+                       "name":  "Десктопные монтажки креаторов (Instagram Edits для Mac)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-13",
+                       "last":  "2026-11-13",
+                       "count":  1,
+                       "note":  "05.11.2026: мультитрек, LUT/шрифты, 4K без вотермарки, MCP; Windows нет"
+                   },
+                   {
                        "name":  "Панорамные рилсы 32:9 (5120×1080)",
                        "dir":  "Short-form",
                        "dirKey":  "short",
@@ -107,9 +117,9 @@
                        "dirKey":  "motion",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-12",
-                       "count":  4,
-                       "note":  "Вендорские обзоры 2026; стабильно №1 в списках"
+                       "last":  "2026-11-13",
+                       "count":  5,
+                       "note":  "Вендорские обзоры 2026; №1 в списках. Контрсигнал advids: в UI-видео доля упала (28/60 в Q1 → 14/40 апр–авг)"
                    },
                    {
                        "name":  "Гибрид CG + AI в студийном пайплайне; фото → 3D-сцена (EVRN)",
@@ -147,9 +157,19 @@
                        "dirKey":  "motion",
                        "status":  "📈",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-12",
-                       "count":  2,
-                       "note":  "Videobolt (12.2025); Designity (06.2026): intentional imperfection"
+                       "last":  "2026-11-13",
+                       "count":  3,
+                       "note":  "Videobolt, Designity; 13.11 — праздничная реклама: Prada рисованная анимация, Barbour × Aardman стоп-моушн, JD «сырая» съёмка"
+                   },
+                   {
+                       "name":  "3D-текст с материалами в AE (Substance по граням, слои как текстуры, Contour Paint)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "🆕",
+                       "first":  "2026-11-13",
+                       "last":  "2026-11-13",
+                       "count":  1,
+                       "note":  "AE 27.0 (Nov 2026 release), CG Channel 10.11"
                    },
                    {
                        "name":  "Моушн в Figma/Rive (UI/продуктовый, интерактивный)",
@@ -187,9 +207,9 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-12",
-                       "count":  4,
-                       "note":  "Бэклэш 2025: McDonald\u0027s NL, Coca-Cola. 2026: John Lewis live-action (5.6★); Coca-Cola AI-грузовики 3-й год (The Drum, 09.11, колонка)"
+                       "last":  "2026-11-13",
+                       "count":  5,
+                       "note":  "Бэклэш 2025: McDonald\u0027s NL. 2026: Coca-Cola AI 3-й год; в обзоре Creative Boom ни один из 18 UK-роликов не заявлен как AI"
                    },
                    {
                        "name":  "Camerimage 2026 (вкл. конкурс клипов)",
@@ -197,9 +217,19 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-12",
-                       "count":  3,
-                       "note":  "Торунь 7–14.11; номинант клипов: BTS «SWIM»; победителей ещё нет"
+                       "last":  "2026-11-13",
+                       "count":  4,
+                       "note":  "FilmLight Colour Awards: Bugonia (Greg Fisher), Lord of the Flies, реклама — North Face «Defy Easy»; Golden Frog 14.11, жюри — Joe Walker"
+                   },
+                   {
+                       "name":  "Длинный хиро-ролик + модульные нарезки под соцсети",
+                       "dir":  "Кино/реклама",
+                       "dirKey":  "cinema",
+                       "status":  "🆕",
+                       "first":  "2026-11-13",
+                       "last":  "2026-11-13",
+                       "count":  1,
+                       "note":  "Waitrose 6 мин, Debenhams 4; Asda 4×30 с + social edit; Sports Direct 60 с + 5×10 с"
                    },
                    {
                        "name":  "Грейдинг внутри Premiere (Color Mode GA)",
@@ -257,19 +287,19 @@
                        "dirKey":  "ai",
                        "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-12",
-                       "count":  4,
-                       "note":  "MAX 10.11: Creative Agent беты в Premiere, AE, Frame.io; Firefly Plan Mode; Resolve 21.2 (05.11)"
+                       "last":  "2026-11-13",
+                       "count":  5,
+                       "note":  "MAX 10.11; AE 27.0: AI Assistant в релизе (экспрешены, анализ футажа, тратит кредиты)"
                    },
                    {
                        "name":  "MCP-интеграции креативного софта с AI-агентами",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-12",
-                       "last":  "2026-11-12",
-                       "count":  1,
-                       "note":  "Adobe: превью для AE/Premiere/PS/AI, CC — начало 2027; Maxon C4D MCP Server; Apple iWork MCP"
+                       "last":  "2026-11-13",
+                       "count":  2,
+                       "note":  "Adobe превью (CC — начало 2027); Maxon C4D; Apple iWork; Instagram Edits для Mac (05.11)"
                    },
                    {
                        "name":  "AI-разделение звука и Generative Remove в видео",
@@ -295,11 +325,11 @@
                        "name":  "Apple Creator Studio Nov: MotionVFX в FCP/Motion, Generate Fill",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-12",
-                       "count":  2,
-                       "note":  "Анонс 27.10, выход «в ноябре»; на 12.11 релиз не подтверждён"
+                       "last":  "2026-11-13",
+                       "count":  3,
+                       "note":  "Анонс 27.10, выход «в ноябре»; на 13.11 не подтверждён; + easing кейфреймов, connected clips где угодно"
                    }
                ],
     "insights":  [
@@ -309,12 +339,13 @@
                      "2026-11-09: Авто-бит-синк и AI-черновики встраиваются в сами платформы (YouTube Shorts) — базовая ритмическая склейка коммодитизируется.",
                      "2026-11-10: Чем больше платформы автоматизируют черновик и бит-синк (Instagram First Draft, YouTube, CapCut), тем выше ценность заметно «человеческой» работы: фактуры в моушне, живых съёмок и эмоции в рекламе.",
                      "2026-11-12: MCP становится общим мостом между AI-агентами и креативным софтом (Adobe CC, Maxon C4D, Apple iWork). Следующий шаг после «AI-кнопок» — агенты, работающие с родными проектами под контролем человека (Plan Mode). Навык монтажёра — ставить задачи агенту и проверять его правки.",
+                     "2026-11-13: MCP дошёл от проф-софта до бесплатных креаторских монтажек (Instagram Edits для Mac) — «agent-ready» становится базовой фичей. Параллельно крупные бренды отвечают на AI-поток видимым ремеслом (стоп-моушн, рисованная анимация, «сырая» съёмка) и модульной подачей: хиро-фильм + пакет нарезок.",
                      "2026-11-12: Профессиональная пресса (Digital Production, SoM) сходится: генеративный контент сейчас ценен как временный материал для черновика/согласования темпа, а надёжнее всего AI в «скучных» задачах — кеинг, ротоскоп, разделение звука.",
                      "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, Digital Production, AWN, School of Motion (Motion Mondays открывать напрямую по URL вида /blog/motion-mondays-\u003cмесяц\u003e-\u003cдень\u003e-2026), blog.google. The Drum и Creative Bloq через WebFetch возвращают пустую страницу — брать факты из сниппетов поиска с оговоркой. По MAX/крупным событиям лучше сразу mode \"extended\"."
                  ],
     "events":  [
                    "Adobe MAX 2026 прошёл 10–12.11. Следить: выход Generative Media Tool/аудио-инструментов из беты, страницы What\u0027s New Premiere/AE; локальный MCP для CC — начало 2027.",
-                   "Camerimage 2026: до 14.11, Торунь — проверить победителей (особенно конкурс клипов) в следующем запуске.",
+                   "Camerimage 2026: Golden Frog и конкурс клипов — 14.11 (жюри главного конкурса — монтажёр Joe Walker). Проверить в следующем запуске.",
                    "Apple Creator Studio: ноябрьское обновление FCP/Motion/Pixelmator — проверить фактический выход и номер версии (текущая подтверждённая FCP — 12.3/12.4, источники расходятся).",
                    "School of Motion: Figma Design for Motion — 23.11; портфолио-ревью 19.11.",
                    "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: только APK-тирдаун (04.11).",
@@ -325,6 +356,11 @@
                    "Праздничный рекламный сезон 2026: John Lewis (03.11, live-action), Coca-Cola AI (3-й год). Dior — критика за AI (дата не подтверждена). Следить за реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-13",
+                        "preview":  "Вышел After Effects 27.0: AI Assistant по текстовым запросам, материалы Substance на 3D-тексте, эффект Cont…",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 13.11.2026\u003c/b\u003e\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• Вышел After Effects 27.0: AI Assistant по текстовым запросам, материалы Substance на 3D-тексте, эффект Contour Paint.\n• Instagram выпустил Edits для Mac: мультитрек, LUT, 4K без вотермарки и поддержка AI-агентов через MCP.\n• Рождественская реклама Великобритании 2026 делает ставку на ручную работу: рисованная анимация, стоп-моушн, «сырая» съёмка.\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 🆕 \u003cb\u003eEdits переехал на десктоп.\u003c/b\u003e С 05.11 приложение Instagram для монтажа рилсов есть на Mac. В нём мультитрековый таймлайн, кейфреймы, импорт LUT и шрифтов, безлимитные автосубтитры и экспорт 4K без вотермарки. Бесплатный инструмент для вертикалок теперь конкурирует с CapCut Desktop, а не только с мобильными приложениями. \u003ca href=\"https://macrumors.com/2026/11/05/instagram-edits-mac\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eДиалоговый монтаж в YouTube Shorts.\u003c/b\u003e По данным ppc.land, правки Shorts в чате с Gemini станут доступны в начале 2027 года. До этого срока функция остаётся анонсом. \u003ca href=\"https://ppc.land/youtube-will-let-creators-edit-shorts-by-chatting-with-gemini-in-early-2027/\"\u003eисточник\u003c/a\u003e\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• 🆕 \u003cb\u003eAE 27.0: 3D и стилизация.\u003c/b\u003e Теперь Substance-материалы можно назначать отдельно на лицевую сторону, тыл, бока и фаску 3D-текста. В Advanced 3D видео и прекомпы работают как текстуры. Новый эффект Contour Paint размазывает пиксели вдоль контуров и умеет постеризовать результат в плоские цвета. Это прямой путь к «рисованному» виду без плагинов. \u003ca href=\"https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eТактильный хендмейд.\u003c/b\u003e Prada анимирует существ вручную поверх живой съёмки, а Barbour снял ролик с Wallace \u0026amp; Gromit в стоп-моушне у Aardman. Видимый ручной труд стал главным способом выделиться на фоне AI. \u003ca href=\"https://www.creativeboom.com/news/christmas-adverts-of-2026/\"\u003eисточник\u003c/a\u003e\n\n🎬 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 🆕 \u003cb\u003eFilmLight Colour Awards 2026 на Camerimage.\u003c/b\u003e В полном метре победил «Бугония» (колорист Greg Fisher, Company 3), в сериалах — Lord of the Flies (Aidan Farrell). В рекламе награду получил North Face «Defy Easy» (Nadia Khairat Gómez). Работы победителей стоит разобрать как референсы по грейду. Golden Frog объявят 14.11, жюри возглавляет монтажёр Joe Walker. \u003ca href=\"https://www.yahoo.com/entertainment/movies/articles/bugonia-lord-flies-among-2026-090039774.html\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eДлинные ролики и модульные нарезки.\u003c/b\u003e Хронометраж рождественских роликов: Waitrose — 6 минут, Debenhams — 4, Tesco — 3. При этом Asda снимает четыре ролика по 30 с плюс отдельную версию для соцсетей, а Sports Direct — 60-секундный главный ролик и пять по 10 с. Заказ всё чаще включает один фильм и пакет нарезок под разные площадки. \u003ca href=\"https://www.creativeboom.com/news/christmas-adverts-of-2026/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eAI-реклама против ремесла.\u003c/b\u003e В обзоре Creative Boom ни один из 18 британских праздничных роликов не заявлен как AI. Тон сместился от слёз к юмору и самоиронии. \u003ca href=\"https://www.creativeboom.com/news/christmas-adverts-of-2026/\"\u003eисточник\u003c/a\u003e\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 🔥 \u003cb\u003eAI Assistant в After Effects.\u003c/b\u003e По CG Channel, он вошёл в релиз 27.0: изучает футаж, кратко описывает проект и пишет JavaScript-экспрешены по текстовому запросу. Большинство творческих действий тратит генеративные кредиты. \u003ca href=\"https://www.cgchannel.com/2026/11/adobe-releases-after-effects-27-0/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eMCP уже и в потребительских монтажках.\u003c/b\u003e Edits для Mac поддерживает Model Context Protocol, то есть AI-агент может работать с проектом. На прошлой неделе о таком объявляли Adobe, Maxon и Apple. \u003ca href=\"https://macrumors.com/2026/11/05/instagram-edits-mac\"\u003eисточник\u003c/a\u003e\n• Apple Creator Studio: релиз ноябрьского обновления с MotionVFX в FCP пока не подтверждён. Помимо MotionVFX, в FCP обещают новые варианты сглаживания кейфреймов и свободное перемещение подключённых клипов. \u003ca href=\"https://www.newsshooter.com/2026/10/27/apple-creator-studio-brings-built-in-motionvfx-content-to-final-cut-pro/\"\u003eисточник\u003c/a\u003e\n• По Runway, Kling, Veo и Resolve новых подтверждённых релизов нет.\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nРучной вид в AE 27.0. Возьми 3–4 с живого видео, например портрет или руки, и примени Contour Paint с постеризацией в 4–6 плоских цветов. Затем добавь Posterize Time на 12 fps, чтобы движение шло «на двойках». Наложи бумажную текстуру в режиме Multiply и анимируй титр «от руки» обводкой через Trim Paths. Сравни с исходником: так за вечер получается вставка в духе праздничных хендмейд-роликов.\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nMCP добрался от профессионального софта до бесплатной монтажки для креаторов (Edits): готовность к работе с агентами становится базовой функцией. При этом крупные бренды отвечают на AI-поток видимым ручным трудом — стоп-моушном, рисованной анимацией и «сырой» съёмкой.\n"
+                    },
                     {
                         "date":  "2026-11-12",
                         "preview":  "Adobe MAX 2026: в Premiere вышел Color Mode (GA), анонсированы AI-ассистенты в Premiere и AE (бета) и Gener…",
