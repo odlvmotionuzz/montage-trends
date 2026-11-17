@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-13",
+    "updated":  "2026-11-17",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -62,14 +62,34 @@
                        "note":  "Made on YouTube 2026; по ppc.land — правки чатом с Gemini в начале 2027"
                    },
                    {
-                       "name":  "Shorts Series (эпизоды/сезоны)",
+                       "name":  "Shorts Series / сериальные истории с клиффхэнгером",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "📈",
+                       "first":  "2026-11-09",
+                       "last":  "2026-11-17",
+                       "count":  2,
+                       "note":  "Made on YouTube 2026; 17.11 — TikTok «Zombie Outbreak Survival Stories»: нумерованные эпизоды, VO поверх AI-анимации (New Engen)"
+                   },
+                   {
+                       "name":  "Fan Transition (вайп лопастями вентилятора, съёмка сверху)",
                        "dir":  "Short-form",
                        "dirKey":  "short",
                        "status":  "🆕",
-                       "first":  "2026-11-09",
-                       "last":  "2026-11-09",
+                       "first":  "2026-11-17",
+                       "last":  "2026-11-17",
                        "count":  1,
-                       "note":  "Made on YouTube 2026; сериальные форматы"
+                       "note":  "New Engen, ноябрь 2026; CapCut/TikTok-редактор, смена образа в такт"
+                   },
+                   {
+                       "name":  "«Я против AI» — сплит-скрин реального и AI-видео",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-17",
+                       "last":  "2026-11-17",
+                       "count":  1,
+                       "note":  "New Engen: Dame Hombro; AI как объект сравнения"
                    },
                    {
                        "name":  "Авто-черновик рилса (Instagram First Draft, Premiere mobile Creative Agent)",
@@ -117,9 +137,9 @@
                        "dirKey":  "motion",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-13",
-                       "count":  5,
-                       "note":  "Вендорские обзоры 2026; №1 в списках. Контрсигнал advids: в UI-видео доля упала (28/60 в Q1 → 14/40 апр–авг)"
+                       "last":  "2026-11-17",
+                       "count":  6,
+                       "note":  "Вендорские обзоры 2026; №1 в списках. Контрсигнал advids: в UI-видео доля упала (28/60 в Q1 → 14/40 апр–авг). 17.11 — сдвиг к «осмысленному» движению вместо хаоса"
                    },
                    {
                        "name":  "Гибрид CG + AI в студийном пайплайне; фото → 3D-сцена (EVRN)",
@@ -157,9 +177,9 @@
                        "dirKey":  "motion",
                        "status":  "📈",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-13",
-                       "count":  3,
-                       "note":  "Videobolt, Designity; 13.11 — праздничная реклама: Prada рисованная анимация, Barbour × Aardman стоп-моушн, JD «сырая» съёмка"
+                       "last":  "2026-11-17",
+                       "count":  4,
+                       "note":  "The Drum 09.11: праздничный сезон «dominated by handcrafted animation». Videobolt, Designity; 13.11 — праздничная реклама: Prada рисованная анимация, Barbour × Aardman стоп-моушн, JD «сырая» съёмка"
                    },
                    {
                        "name":  "3D-текст с материалами в AE (Substance по граням, слои как текстуры, Contour Paint)",
@@ -207,19 +227,19 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-13",
-                       "count":  5,
-                       "note":  "Бэклэш 2025: McDonald\u0027s NL. 2026: Coca-Cola AI 3-й год; в обзоре Creative Boom ни один из 18 UK-роликов не заявлен как AI"
+                       "last":  "2026-11-17",
+                       "count":  6,
+                       "note":  "Бэклэш 2025: McDonald\u0027s NL. 2026: Coca-Cola AI 3-й год (The Drum 09.11: «вопреки бэклэшу», колонка-мнение); в обзоре Creative Boom ни один из 18 UK-роликов не заявлен как AI"
                    },
                    {
                        "name":  "Camerimage 2026 (вкл. конкурс клипов)",
                        "dir":  "Кино/реклама",
                        "dirKey":  "cinema",
-                       "status":  "📈",
+                       "status":  "🔥",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-13",
-                       "count":  4,
-                       "note":  "FilmLight Colour Awards: Bugonia (Greg Fisher), Lord of the Flies, реклама — North Face «Defy Easy»; Golden Frog 14.11, жюри — Joe Walker"
+                       "last":  "2026-11-17",
+                       "count":  5,
+                       "note":  "Итоги 14.11: Golden Frog — Łukasz Żal «Fatherland» (ч/б, ALEXA 35, один источник света); Silver — Woman Unknown; Bronze — Minotaur. Клипы: Angèle ft. Justice «What You Want» ((LA)HORDE, Jeff Bierman), спец. упоминание Romain Gavras «Storm». FilmLight: Bugonia, North Face «Defy Easy». Фестиваль завершён"
                    },
                    {
                        "name":  "Длинный хиро-ролик + модульные нарезки под соцсети",
@@ -265,11 +285,11 @@
                        "name":  "Gemini Omni 1.2 Flash",
                        "dir":  "AI/софт",
                        "dirKey":  "ai",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-12",
-                       "count":  2,
-                       "note":  "05.11.2026; 3–15 с; Veo 3.1 Preview в Gemini API закрыт 22.10"
+                       "last":  "2026-11-17",
+                       "count":  3,
+                       "note":  "05.11.2026; 3–15 с; в Google Vids — бесплатная месячная квота 15-с генераций; Veo 3.1 Preview в Gemini API закрыт 22.10"
                    },
                    {
                        "name":  "Генерация на таймлайне Premiere (Generative Media Tool)",
@@ -287,9 +307,19 @@
                        "dirKey":  "ai",
                        "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-13",
-                       "count":  5,
-                       "note":  "MAX 10.11; AE 27.0: AI Assistant в релизе (экспрешены, анализ футажа, тратит кредиты)"
+                       "last":  "2026-11-17",
+                       "count":  6,
+                       "note":  "MAX 10.11; AE 27.0: AI Assistant в релизе (экспрешены, анализ футажа, тратит кредиты); SoM 16.11: собирает риги камеры/текста; Resolve 21.2 (04.11): ассистент для цвета и Fusion"
+                   },
+                   {
+                       "name":  "Premiere 27.0: переключатель Live Ripple Edit, Sony FX5 X-OCN",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "🆕",
+                       "first":  "2026-11-17",
+                       "last":  "2026-11-17",
+                       "count":  1,
+                       "note":  "Release notes Adobe (обн. 10.11), по сниппету — страница 403"
                    },
                    {
                        "name":  "MCP-интеграции креативного софта с AI-агентами",
@@ -327,9 +357,9 @@
                        "dirKey":  "ai",
                        "status":  "📈",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-13",
-                       "count":  3,
-                       "note":  "Анонс 27.10, выход «в ноябре»; на 13.11 не подтверждён; + easing кейфреймов, connected clips где угодно"
+                       "last":  "2026-11-17",
+                       "count":  4,
+                       "note":  "Анонс 27.10, выход «в ноябре»; на 17.11 не подтверждён; FCP требует macOS 26.6+; + easing кейфреймов, connected clips где угодно"
                    }
                ],
     "insights":  [
@@ -341,13 +371,14 @@
                      "2026-11-12: MCP становится общим мостом между AI-агентами и креативным софтом (Adobe CC, Maxon C4D, Apple iWork). Следующий шаг после «AI-кнопок» — агенты, работающие с родными проектами под контролем человека (Plan Mode). Навык монтажёра — ставить задачи агенту и проверять его правки.",
                      "2026-11-13: MCP дошёл от проф-софта до бесплатных креаторских монтажек (Instagram Edits для Mac) — «agent-ready» становится базовой фичей. Параллельно крупные бренды отвечают на AI-поток видимым ремеслом (стоп-моушн, рисованная анимация, «сырая» съёмка) и модульной подачей: хиро-фильм + пакет нарезок.",
                      "2026-11-12: Профессиональная пресса (Digital Production, SoM) сходится: генеративный контент сейчас ценен как временный материал для черновика/согласования темпа, а надёжнее всего AI в «скучных» задачах — кеинг, ротоскоп, разделение звука.",
+                     "2026-11-17: Сериальная подача (нумерованные эпизоды + клиффхэнгер) вышла из Shorts Series в нативные TikTok-тренды; AI-визуал там — дешёвая подложка под нарратив или объект сравнения («я против AI»), а не самоцель. Фестивали (Camerimage) параллельно награждают аскетичный визуал: ч/б, один источник света.",
                      "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, Digital Production, AWN, School of Motion (Motion Mondays открывать напрямую по URL вида /blog/motion-mondays-\u003cмесяц\u003e-\u003cдень\u003e-2026), blog.google. The Drum и Creative Bloq через WebFetch возвращают пустую страницу — брать факты из сниппетов поиска с оговоркой. По MAX/крупным событиям лучше сразу mode \"extended\"."
                  ],
     "events":  [
                    "Adobe MAX 2026 прошёл 10–12.11. Следить: выход Generative Media Tool/аудио-инструментов из беты, страницы What\u0027s New Premiere/AE; локальный MCP для CC — начало 2027.",
-                   "Camerimage 2026: Golden Frog и конкурс клипов — 14.11 (жюри главного конкурса — монтажёр Joe Walker). Проверить в следующем запуске.",
-                   "Apple Creator Studio: ноябрьское обновление FCP/Motion/Pixelmator — проверить фактический выход и номер версии (текущая подтверждённая FCP — 12.3/12.4, источники расходятся).",
-                   "School of Motion: Figma Design for Motion — 23.11; портфолио-ревью 19.11.",
+                   "Apple Creator Studio: ноябрьское обновление FCP/Motion/Pixelmator — на 17.11 выход не подтверждён; проверять.",
+                   "School of Motion: Office Hours 18.11, портфолио-ревью 19.11, Figma Design for Motion — 23.11; Black Friday (даты не указаны).",
+                   "Resolve: актуальная версия 21.2 (04.11).",
                    "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: только APK-тирдаун (04.11).",
                    "Resolve Studio: скидка 20% до 20.11.2026.",
                    "Runway: Gen-4.5 остаётся флагманом; хостит сторонние модели (Kling, Seedance, Wan, Veo); legacy Unlimited → Max, старые планы без изменений до 30.11.2026.",
@@ -356,6 +387,11 @@
                    "Праздничный рекламный сезон 2026: John Lewis (03.11, live-action), Coca-Cola AI (3-й год). Dior — критика за AI (дата не подтверждена). Следить за реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-17",
+                        "preview":  "Camerimage 2026: Golden Frog у Łukasz Żal за чёрно-белый «Fatherland», среди клипов победил «What You Want»…",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 17.11.2026\u003c/b\u003e\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• Camerimage 2026: Golden Frog у Łukasz Żal за чёрно-белый «Fatherland», среди клипов победил «What You Want» Angèle ft. Justice.\n• DaVinci Resolve 21.2: AI-ассистент научился работать с цветом и Fusion, появилась поддержка тач-экрана MacBook Pro.\n• В TikTok набирают ход Fan Transition, ролики «я против AI» и сериальные истории с клиффхэнгером.\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 🆕 \u003cb\u003eFan Transition.\u003c/b\u003e Камера стоит сверху, человек лежит неподвижно, а склейку прячет вайп в виде лопастей вентилятора; смена образа попадает в такт звука. Простой маскированный переход, который легко сделать по-своему. \u003ca href=\"https://newengen.com/tiktok-trends/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003e«Я против AI».\u003c/b\u003e В тренде Dame Hombro настоящий танец и его AI-версия идут рядом в сплит-скрине. AI-генерация стала поводом для сравнения и шутки, а не скрытым инструментом. \u003ca href=\"https://newengen.com/tiktok-trends/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eСериальные истории.\u003c/b\u003e В «Zombie Outbreak Survival Stories» нумерованные эпизоды с закадровым голосом идут поверх AI-анимации или рисунков из палочек, а каждый эпизод кончается клиффхэнгером. Эпизодная подача уже вышла за пределы Shorts Series. \u003ca href=\"https://newengen.com/tiktok-trends/\"\u003eисточник\u003c/a\u003e\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• 📈 \u003cb\u003eРиги через AI в After Effects.\u003c/b\u003e School of Motion в разборе MAX показывает, как бета-ассистент AE собирает риги камеры и текста и как анимированный прекомп становится 3D-материалом. Там же — экспериментальные ESC tools Mikey Borup, уже совместимые с новой AE. \u003ca href=\"https://schoolofmotion.com/blog/motion-mondays-november-16-2026\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eКинетическая типографика.\u003c/b\u003e Её по-прежнему чаще всего называют главным трендом года, потому что short-form в основном смотрят без звука. Но мода сдвигается от хаотичных эффектов к сдержанному движению, у которого есть смысл. Источники — агентские блоги, так что это скорее направление, чем факт. \u003ca href=\"https://designity.com/blog/2d-animation-trends-2026\"\u003eисточник\u003c/a\u003e\n\n🎬 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 🔥 \u003cb\u003eИтоги Camerimage 2026.\u003c/b\u003e Golden Frog получил Łukasz Żal за «Fatherland» Павликовского: фильм чёрно-белый, снят на ALEXA 35, большинство сцен освещены одним источником. Серебро у «Woman Unknown», бронза у «Minotaur» Звягинцева. Жюри, которое возглавлял монтажёр Joe Walker, наградило сдержанность. \u003ca href=\"https://www.cined.com/camerimage-2026-winners-golden-frog-for-lukasz-zal-and-fatherland-shot-in-black-and-white-on-arri-alexa-35/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eЛучший клип.\u003c/b\u003e Golden Frog в конкурсе клипов — «What You Want» Angèle ft. Justice (оператор Jeff Bierman, режиссёры (LA)HORDE). Специальное упоминание за режиссуру — Romain Gavras за «Storm» GENER8ION. Оба клипа стоит разобрать как референсы по ритму. \u003ca href=\"https://camerimage.pl/en/news/toruncamerimage-2026-awards\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eAI-реклама вопреки критике.\u003c/b\u003e Coca-Cola в третий раз запустила AI-грузовики, хотя остальной сезон занят ручной анимацией. Это колонка с мнением, а данные теста аудитории в ней авторские и не проверены. \u003ca href=\"https://www.thedrum.com/opinion/coca-cola-wouldn-t-make-a-third-ai-christmas-ad-if-online-backlash-mattered-enough\"\u003eисточник\u003c/a\u003e\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 🔥 \u003cb\u003eResolve 21.2.\u003c/b\u003e AI-ассистенты стали лучше работать с цветом и Fusion: они сами скачивают нужные дополнения и выгружают кадры сеткой. Добавлены тач-ввод на MacBook Pro с PROLED XDR, LUT Gen 6 и ускорение эффектов до 5× на M5 Pro/Max. \u003ca href=\"https://www.newsshooter.com/2026/11/04/blackmagic-design-davinci-resolve-21-2/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003ePremiere 27.0.\u003c/b\u003e В заметках к релизу появился переключатель Live Ripple Edit: если его выключить, ripple-трим применяется только когда отпускаешь мышь. Добавлена поддержка Sony FX5 X-OCN. Сведения взяты из сниппета страницы Adobe, сама страница не открылась. \u003ca href=\"https://helpx.adobe.com/premiere-pro/kb/fixed-issues.html\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eGemini Omni 1.2 Flash в Google Vids.\u003c/b\u003e Бесплатным пользователям дают небольшую месячную квоту 15-секундных генераций. \u003ca href=\"https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html\"\u003eисточник\u003c/a\u003e\n• Apple Creator Studio с MotionVFX: выход по-прежнему не подтверждён. По Kling и Runway новых релизов нет.\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nFan Transition в After Effects. Сними или возьми два кадра сверху с одинаковой позой. В AE нарисуй шейп из трёх лопастей, крупнее кадра, и сделай его Alpha Matte для второго клипа. Анимируй Rotation на 360–540° за 8–10 кадров с easing и масштабом от 0 до 300%. Добавь CC Radial Blur в режиме Rotate для смаза и поставь пик перехода на удар в музыке. Сохрани как пресет — пригодится и для коммерческих рилсов.\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nСериальная подача (нумерованные эпизоды и клиффхэнгер) вышла из Shorts Series в обычные TikTok-тренды. AI-визуал там служит дешёвой подложкой под историю или поводом для сравнения «я против AI», а не самоцелью.\n"
+                    },
                     {
                         "date":  "2026-11-13",
                         "preview":  "Вышел After Effects 27.0: AI Assistant по текстовым запросам, материалы Substance на 3D-тексте, эффект Cont…",
