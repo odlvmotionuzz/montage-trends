@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-17",
+    "updated":  "2026-11-18",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -67,9 +67,9 @@
                        "dirKey":  "short",
                        "status":  "📈",
                        "first":  "2026-11-09",
-                       "last":  "2026-11-17",
-                       "count":  2,
-                       "note":  "Made on YouTube 2026; 17.11 — TikTok «Zombie Outbreak Survival Stories»: нумерованные эпизоды, VO поверх AI-анимации (New Engen)"
+                       "last":  "2026-11-18",
+                       "count":  3,
+                       "note":  "Made on YouTube 2026; 17.11 — TikTok «Zombie Outbreak Survival Stories» (New Engen); 18.11 — Instagram тестирует Series, США к концу 2026/началу 2027"
                    },
                    {
                        "name":  "Fan Transition (вайп лопастями вентилятора, съёмка сверху)",
@@ -80,6 +80,26 @@
                        "last":  "2026-11-17",
                        "count":  1,
                        "note":  "New Engen, ноябрь 2026; CapCut/TikTok-редактор, смена образа в такт"
+                   },
+                   {
+                       "name":  "Upside Down transition (смена образа через переворот камеры)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-18",
+                       "last":  "2026-11-18",
+                       "count":  1,
+                       "note":  "Virlo 29.10: на пике, 52 автора/нед (было 69); ремикс Diana Ross"
+                   },
+                   {
+                       "name":  "Ужесточение монетизации Shorts (10 млн просмотров/90 дн с 02.2027)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-18",
+                       "last":  "2026-11-18",
+                       "count":  1,
+                       "note":  "Tubefilter 10.08.2026; альтернатива — бонусы за брендовые кампании (45%)"
                    },
                    {
                        "name":  "«Я против AI» — сплит-скрин реального и AI-видео",
@@ -175,11 +195,11 @@
                        "name":  "Тактильный хендмейд (зерно, бумага, рваные края, низкий fps)",
                        "dir":  "Motion",
                        "dirKey":  "motion",
-                       "status":  "📈",
+                       "status":  "🔥",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-17",
-                       "count":  4,
-                       "note":  "The Drum 09.11: праздничный сезон «dominated by handcrafted animation». Videobolt, Designity; 13.11 — праздничная реклама: Prada рисованная анимация, Barbour × Aardman стоп-моушн, JD «сырая» съёмка"
+                       "last":  "2026-11-18",
+                       "count":  5,
+                       "note":  "The Drum 09.11: праздничный сезон «dominated by handcrafted animation». Videobolt, Designity; 13.11 — праздничная реклама: Prada рисованная анимация, Barbour × Aardman стоп-моушн, JD «сырая» съёмка; 18.11 — Prada карандаш по бумаге вместо CG, Dunkin\u0027 рисованная анимация (Creative Bloq)"
                    },
                    {
                        "name":  "3D-текст с материалами в AE (Substance по граням, слои как текстуры, Contour Paint)",
@@ -212,6 +232,16 @@
                        "note":  "SoM 09.11; там же — разрыв демо/реальности (тесты Higgsfield)"
                    },
                    {
+                       "name":  "AI-подготовка артворка к анимации; вектор внутри AE (Illustrator assistant, Design Mode Jake Bartlett)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "🆕",
+                       "first":  "2026-11-18",
+                       "last":  "2026-11-18",
+                       "count":  1,
+                       "note":  "SoM Motion Mondays 16.11; Design Mode вне SoM не подтверждён"
+                   },
+                   {
                        "name":  "AI-воркфлоу в брендовых короткометражках",
                        "dir":  "Кино/реклама",
                        "dirKey":  "cinema",
@@ -227,9 +257,9 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-17",
-                       "count":  6,
-                       "note":  "Бэклэш 2025: McDonald\u0027s NL. 2026: Coca-Cola AI 3-й год (The Drum 09.11: «вопреки бэклэшу», колонка-мнение); в обзоре Creative Boom ни один из 18 UK-роликов не заявлен как AI"
+                       "last":  "2026-11-18",
+                       "count":  7,
+                       "note":  "Бэклэш 2025: McDonald\u0027s NL. 2026: Coca-Cola AI 3-й год (The Drum 09.11: «вопреки бэклэшу», колонка-мнение); в обзоре Creative Boom ни один из 18 UK-роликов не заявлен как AI; 18.11 — Creative Bloq: «AI slop — новая традиция», CMO Coca-Cola: дешевле и быстрее"
                    },
                    {
                        "name":  "Camerimage 2026 (вкл. конкурс клипов)",
@@ -240,6 +270,16 @@
                        "last":  "2026-11-17",
                        "count":  5,
                        "note":  "Итоги 14.11: Golden Frog — Łukasz Żal «Fatherland» (ч/б, ALEXA 35, один источник света); Silver — Woman Unknown; Bronze — Minotaur. Клипы: Angèle ft. Justice «What You Want» ((LA)HORDE, Jeff Bierman), спец. упоминание Romain Gavras «Storm». FilmLight: Bugonia, North Face «Defy Easy». Фестиваль завершён"
+                   },
+                   {
+                       "name":  "Ручная анимация с топ-оценками тестов (Thatchers × Aardman 5.9★ System1)",
+                       "dir":  "Кино/реклама",
+                       "dirKey":  "cinema",
+                       "status":  "🆕",
+                       "first":  "2026-11-18",
+                       "last":  "2026-11-18",
+                       "count":  1,
+                       "note":  "«Saving Tasting Time», первый рождественский ролик Thatchers; рейтинг System1 на 12.11 предварительный"
                    },
                    {
                        "name":  "Длинный хиро-ролик + модульные нарезки под соцсети",
@@ -267,9 +307,19 @@
                        "dirKey":  "ai",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-09",
-                       "count":  2,
-                       "note":  "Kling 4.0 — 15.10; Seedance 2.5 в CapCut — 31.07 (до 50 референсов)"
+                       "last":  "2026-11-18",
+                       "count":  3,
+                       "note":  "Kling 4.0 — 15.10; Seedance 2.5 в CapCut — 31.07 (до 50 референсов); Kling 4.0 в Runway API с 23.10, 4.0 Flash 720p — 05.11 (блоги)"
+                   },
+                   {
+                       "name":  "Runway как агрегатор сторонних моделей",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "🆕",
+                       "first":  "2026-11-18",
+                       "last":  "2026-11-18",
+                       "count":  1,
+                       "note":  "Своей модели после Gen-4.5 (дек. 2025) нет; API продаёт Kling 4.0 и др."
                    },
                    {
                        "name":  "Промпт/диалоговый монтаж (CapCut EditPilot, Gemini Omni, YouTube, Premiere mobile)",
@@ -307,9 +357,9 @@
                        "dirKey":  "ai",
                        "status":  "🔥",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-17",
-                       "count":  6,
-                       "note":  "MAX 10.11; AE 27.0: AI Assistant в релизе (экспрешены, анализ футажа, тратит кредиты); SoM 16.11: собирает риги камеры/текста; Resolve 21.2 (04.11): ассистент для цвета и Fusion"
+                       "last":  "2026-11-18",
+                       "count":  7,
+                       "note":  "MAX 10.11; AE 27.0: AI Assistant в релизе (экспрешены, анализ футажа, тратит кредиты); SoM 16.11: собирает риги камеры/текста; Resolve 21.2 (04.11): ассистент для цвета и Fusion; 18.11 — ассистенты Apple (Logic, iWork) на моделях Apple+OpenAI"
                    },
                    {
                        "name":  "Premiere 27.0: переключатель Live Ripple Edit, Sony FX5 X-OCN",
@@ -327,8 +377,8 @@
                        "dirKey":  "ai",
                        "status":  "📈",
                        "first":  "2026-11-12",
-                       "last":  "2026-11-13",
-                       "count":  2,
+                       "last":  "2026-11-18",
+                       "count":  3,
                        "note":  "Adobe превью (CC — начало 2027); Maxon C4D; Apple iWork; Instagram Edits для Mac (05.11)"
                    },
                    {
@@ -357,9 +407,9 @@
                        "dirKey":  "ai",
                        "status":  "📈",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-17",
-                       "count":  4,
-                       "note":  "Анонс 27.10, выход «в ноябре»; на 17.11 не подтверждён; FCP требует macOS 26.6+; + easing кейфреймов, connected clips где угодно"
+                       "last":  "2026-11-18",
+                       "count":  5,
+                       "note":  "Анонс 27.10; 9to5Mac 05.11: «раскатывается»; Generate Fill — в Pixelmator, MCP — только iWork; FCP требует macOS 26.6+; + easing кейфреймов, connected clips где угодно"
                    }
                ],
     "insights":  [
@@ -372,21 +422,29 @@
                      "2026-11-13: MCP дошёл от проф-софта до бесплатных креаторских монтажек (Instagram Edits для Mac) — «agent-ready» становится базовой фичей. Параллельно крупные бренды отвечают на AI-поток видимым ремеслом (стоп-моушн, рисованная анимация, «сырая» съёмка) и модульной подачей: хиро-фильм + пакет нарезок.",
                      "2026-11-12: Профессиональная пресса (Digital Production, SoM) сходится: генеративный контент сейчас ценен как временный материал для черновика/согласования темпа, а надёжнее всего AI в «скучных» задачах — кеинг, ротоскоп, разделение звука.",
                      "2026-11-17: Сериальная подача (нумерованные эпизоды + клиффхэнгер) вышла из Shorts Series в нативные TikTok-тренды; AI-визуал там — дешёвая подложка под нарратив или объект сравнения («я против AI»), а не самоцель. Фестивали (Camerimage) параллельно награждают аскетичный визуал: ч/б, один источник света.",
+                     "2026-11-18: Ремесло в рекламе получило измеримое подтверждение (5.9★ System1 у стоп-моушна Aardman), AI-ролики — ярлык «slop». Apple в FCP делает ставку на встроенную библиотеку шаблонов (MotionVFX), а AI-ассистентов и MCP пока даёт другим приложениям пакета — у видеоредакторов AI-агенты внедряются неравномерно.",
                      "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, Digital Production, AWN, School of Motion (Motion Mondays открывать напрямую по URL вида /blog/motion-mondays-\u003cмесяц\u003e-\u003cдень\u003e-2026), blog.google. The Drum и Creative Bloq через WebFetch возвращают пустую страницу — брать факты из сниппетов поиска с оговоркой. По MAX/крупным событиям лучше сразу mode \"extended\"."
                  ],
     "events":  [
                    "Adobe MAX 2026 прошёл 10–12.11. Следить: выход Generative Media Tool/аудио-инструментов из беты, страницы What\u0027s New Premiere/AE; локальный MCP для CC — начало 2027.",
-                   "Apple Creator Studio: ноябрьское обновление FCP/Motion/Pixelmator — на 17.11 выход не подтверждён; проверять.",
-                   "School of Motion: Office Hours 18.11, портфолио-ревью 19.11, Figma Design for Motion — 23.11; Black Friday (даты не указаны).",
+                   "Apple Creator Studio: по 9to5Mac раскатка с 05.11 (подписчикам бесплатно); проверить версию FCP в App Store и судьбу разовой покупки FCP.",
+                   "School of Motion: портфолио-ревью 19.11, Figma Design for Motion — 23.11; Black Friday (даты не указаны).",
                    "Resolve: актуальная версия 21.2 (04.11).",
                    "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: только APK-тирдаун (04.11).",
                    "Resolve Studio: скидка 20% до 20.11.2026.",
                    "Runway: Gen-4.5 остаётся флагманом; хостит сторонние модели (Kling, Seedance, Wan, Veo); legacy Unlimited → Max, старые планы без изменений до 30.11.2026.",
                    "Google: видео-линейка на Gemini Omni (1.2 Flash GA 05.11); Veo 3.1 Preview в Gemini API закрыт 22.10.",
                    "Sora: веб/приложение закрыты 26.04.2026 (по сторонним источникам) — не считать активным инструментом.",
+                   "System1 обновляет рейтинг рождественских роликов (на 12.11 лидер Thatchers 5.9★) — следить за финалом.",
+                   "YouTube: порог монетизации Shorts 10 млн/90 дн — с февраля 2027.",
                    "Праздничный рекламный сезон 2026: John Lewis (03.11, live-action), Coca-Cola AI (3-й год). Dior — критика за AI (дата не подтверждена). Следить за реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-18",
+                        "preview":  "Стоп-моушн Aardman для Thatchers получил максимальные 5.9 звезды в тесте System1: ручная работа выигрывает …",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 18.11.2026\u003c/b\u003e\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• Стоп-моушн Aardman для Thatchers получил максимальные 5.9 звезды в тесте System1: ручная работа выигрывает и по цифрам.\n• Apple начала раскатывать обновление Creator Studio: в Final Cut Pro встроены тысячи элементов MotionVFX.\n• В TikTok на пике Upside Down transition: смена образа прячется в переворот камеры.\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 🆕 \u003cb\u003eUpside Down transition.\u003c/b\u003e Под ремикс «Upside Down» Дайаны Росс человек начинает без макияжа, а после переворота камеры (или головы) появляется готовый образ. По данным Virlo на 29.10, тренд на пике (52 автора за неделю). Это тот же приём «скрытой склейки в движении», что и Fan Transition, только проще в съёмке. \u003ca href=\"https://virlo.ai/blog/current-tiktok-trends\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eСериалы в ленте.\u003c/b\u003e Instagram тестирует Series — группировку эпизодных рилсов в профиле, расширение на США планируется к концу 2026 или началу 2027. Эпизодная подача становится функцией платформ, а не только приёмом. \u003ca href=\"https://napoleoncat.com/blog/instagram-new-features-and-updates/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eМонетизация Shorts станет жёстче.\u003c/b\u003e С февраля 2027 года доход от рекламы в Shorts получат только каналы с 10 млн просмотров Shorts за 90 дней. Мелким авторам выгоднее делать ставку на заказной монтаж и брендовые интеграции, а не на рекламные выплаты. \u003ca href=\"https://www.tubefilter.com/2026/08/10/youtube-partner-program-ad-eligibility-requirements-shorts/\"\u003eисточник\u003c/a\u003e\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• 📈 \u003cb\u003eAI готовит иллюстрации к анимации.\u003c/b\u003e School of Motion в разборе MAX показывает, как бета-ассистент Illustrator пытается «распутать» артворк для анимации, а ассистент AE собирает риги камеры и текста. Там же упомянут Design Mode Jake Bartlett — отдельный векторный холст внутри AE (подробностей вне SoM найти не удалось). \u003ca href=\"https://schoolofmotion.com/blog/motion-mondays-november-16-2026\"\u003eисточник\u003c/a\u003e\n• 🔥 \u003cb\u003eТактильный хендмейд.\u003c/b\u003e Prada заменила CG на анимацию карандашом по бумаге, Dunkin\u0027 хвалят за рисованный праздничный ролик, Thatchers и Barbour работают с Aardman в стоп-моушне. Ремесло стало главным языком праздничного сезона. \u003ca href=\"https://www.creativebloq.com/art/animation/dunkin-saves-christmas-ads-with-delightful-animation\"\u003eисточник\u003c/a\u003e\n\n🎬 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 🆕 \u003cb\u003eСтоп-моушн с максимальной оценкой.\u003c/b\u003e Первый рождественский ролик Thatchers «Saving Tasting Time» от Aardman получил 5.9 звезды в предварительном рейтинге System1 на 12.11. Это аргумент для клиента в пользу ручной анимации, подкреплённый тестом аудитории. \u003ca href=\"https://www.grocerygazette.co.uk/2026/11/02/thatchers-cider-teams-up-with-aardman-for-first-ever-christmas-tv-advert/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eAI-реклама и бэклэш.\u003c/b\u003e Creative Bloq называет AI-грузовики Coca-Cola «новой праздничной традицией AI slop», а CMO бренда объясняет выбор тем, что так дешевле и быстрее. Спор «скорость против души» продолжается, а заказчики делятся на два лагеря. \u003ca href=\"https://www.creativebloq.com/creative-inspiration/advertising/coca-colas-ai-ad-just-ruined-christmas-again\"\u003eисточник\u003c/a\u003e\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 📈 \u003cb\u003eApple Creator Studio: раскатка началась.\u003c/b\u003e По 9to5Mac (05.11), обновление выходит: в Final Cut Pro встроены тысячи элементов MotionVFX (шаблоны, переходы, титры, ротоскоп, трекинг, грейдинг) и Content Hub со стоком. AI-ассистенты на моделях Apple и OpenAI получили Logic Pro и iWork, MCP — Keynote, Pages и Numbers, Generate Fill — Pixelmator Pro. Для подписчиков бесплатно, разовая покупка FCP не упоминается. \u003ca href=\"https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eKling 4.0 расходится по платформам.\u003c/b\u003e В API Runway с 23.10 доступен Kling 4.0, а по данным обзоров — и дешёвый Kling 4.0 Flash (720p). Своей новой модели у Runway после Gen-4.5 нет: сервис всё больше похож на агрегатор моделей. \u003ca href=\"https://docs.dev.runwayml.com/api-details/api_changelog/\"\u003eисточник\u003c/a\u003e\n• Напоминание: скидка 20% на Resolve Studio 21.2 действует до 20.11. По Premiere, AE и CapCut новых релизов за неделю не найдено.\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nUpside Down transition в Premiere или AE. Сними два плана с одной точки: «до» и «после». В конце первого плана резко поверни камеру на 180° (или сделай это в монтаже: Rotation 0→180° за 6–8 кадров с ускорением). Второй план начни с 180°→360° с замедлением. Склейку ставь на пике вращения, добавь Directional/Radial Blur или Motion Blur, а пик совмести с сильной долей бита. Для коммерческих рилсов приём подходит под «до/после» продукта.\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nРучная анимация в рекламе выигрывает не только по вниманию, но и в измеримых тестах (5.9 звезды System1 у стоп-моушна Aardman), тогда как AI-ролики получают ярлык «slop». Apple же делает ставку на встроенную библиотеку шаблонов в FCP, а AI-ассистентов и MCP пока даёт только в других приложениях пакета.\n"
+                    },
                     {
                         "date":  "2026-11-17",
                         "preview":  "Camerimage 2026: Golden Frog у Łukasz Żal за чёрно-белый «Fatherland», среди клипов победил «What You Want»…",
