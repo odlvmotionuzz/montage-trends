@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-18",
+    "updated":  "2026-11-19",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -85,11 +85,21 @@
                        "name":  "Upside Down transition (смена образа через переворот камеры)",
                        "dir":  "Short-form",
                        "dirKey":  "short",
-                       "status":  "🆕",
+                       "status":  "🔥",
                        "first":  "2026-11-18",
-                       "last":  "2026-11-18",
-                       "count":  1,
+                       "last":  "2026-11-19",
+                       "count":  2,
                        "note":  "Virlo 29.10: на пике, 52 автора/нед (было 69); ремикс Diana Ross"
+                   },
+                   {
+                       "name":  "Переход-смена образа под «You Rock My World» (Michael Jackson)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-19",
+                       "last":  "2026-11-19",
+                       "count":  1,
+                       "note":  "Virlo 31.10: на пике, но мелкий (8 авторов/нед)"
                    },
                    {
                        "name":  "Ужесточение монетизации Shorts (10 млн просмотров/90 дн с 02.2027)",
@@ -197,9 +207,9 @@
                        "dirKey":  "motion",
                        "status":  "🔥",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-18",
-                       "count":  5,
-                       "note":  "The Drum 09.11: праздничный сезон «dominated by handcrafted animation». Videobolt, Designity; 13.11 — праздничная реклама: Prada рисованная анимация, Barbour × Aardman стоп-моушн, JD «сырая» съёмка; 18.11 — Prada карандаш по бумаге вместо CG, Dunkin\u0027 рисованная анимация (Creative Bloq)"
+                       "last":  "2026-11-19",
+                       "count":  6,
+                       "note":  "19.11 — System1: 2 ролика Aardman в топ-8 с 5.9★; The Drum 09.11: праздничный сезон «dominated by handcrafted animation». Videobolt, Designity; 13.11 — праздничная реклама: Prada рисованная анимация, Barbour × Aardman стоп-моушн, JD «сырая» съёмка; 18.11 — Prada карандаш по бумаге вместо CG, Dunkin\u0027 рисованная анимация (Creative Bloq)"
                    },
                    {
                        "name":  "3D-текст с материалами в AE (Substance по граням, слои как текстуры, Contour Paint)",
@@ -225,11 +235,21 @@
                        "name":  "AI-кеинг и ротоскоп (CorridorKey, Object Matte, LTX Alpha Gen)",
                        "dir":  "Motion",
                        "dirKey":  "motion",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-12",
-                       "last":  "2026-11-12",
+                       "last":  "2026-11-19",
+                       "count":  2,
+                       "note":  "SoM 09.11; CorridorKey 2.0 (SoM 02.11: платные плагины + бесплатная Python-версия); там же — разрыв демо/реальности (тесты Higgsfield)"
+                   },
+                   {
+                       "name":  "Чат-агент, собирающий графику в открытой композиции AE (Higgsfield AI Motion Designer)",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "🆕",
+                       "first":  "2026-11-19",
+                       "last":  "2026-11-19",
                        "count":  1,
-                       "note":  "SoM 09.11; там же — разрыв демо/реальности (тесты Higgsfield)"
+                       "note":  "runtimewire 12.09.2026: ChatGPT → родные слои/ключи AE; нужны подписки Higgsfield+ChatGPT+Adobe"
                    },
                    {
                        "name":  "AI-подготовка артворка к анимации; вектор внутри AE (Illustrator assistant, Design Mode Jake Bartlett)",
@@ -257,9 +277,9 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-18",
-                       "count":  7,
-                       "note":  "Бэклэш 2025: McDonald\u0027s NL. 2026: Coca-Cola AI 3-й год (The Drum 09.11: «вопреки бэклэшу», колонка-мнение); в обзоре Creative Boom ни один из 18 UK-роликов не заявлен как AI; 18.11 — Creative Bloq: «AI slop — новая традиция», CMO Coca-Cola: дешевле и быстрее"
+                       "last":  "2026-11-19",
+                       "count":  8,
+                       "note":  "19.11 — System1 (12.11): Coca-Cola AI 5.7★, Spike 1.66 (3-й в топ-12), System1: данных об AI мало; Бэклэш 2025: McDonald\u0027s NL. 2026: Coca-Cola AI 3-й год (The Drum 09.11: «вопреки бэклэшу», колонка-мнение); в обзоре Creative Boom ни один из 18 UK-роликов не заявлен как AI; 18.11 — Creative Bloq: «AI slop — новая традиция», CMO Coca-Cola: дешевле и быстрее"
                    },
                    {
                        "name":  "Camerimage 2026 (вкл. конкурс клипов)",
@@ -275,11 +295,31 @@
                        "name":  "Ручная анимация с топ-оценками тестов (Thatchers × Aardman 5.9★ System1)",
                        "dir":  "Кино/реклама",
                        "dirKey":  "cinema",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-18",
-                       "last":  "2026-11-18",
+                       "last":  "2026-11-19",
+                       "count":  2,
+                       "note":  "19.11 — Barbour × Wallace \u0026 Gromit тоже 5.9★; «Saving Tasting Time», первый рождественский ролик Thatchers; рейтинг System1 на 12.11 предварительный"
+                   },
+                   {
+                       "name":  "Повторяющиеся персонажи бренда как главный драйвер эффективности",
+                       "dir":  "Кино/реклама",
+                       "dirKey":  "cinema",
+                       "status":  "🆕",
+                       "first":  "2026-11-19",
+                       "last":  "2026-11-19",
                        "count":  1,
-                       "note":  "«Saving Tasting Time», первый рождественский ролик Thatchers; рейтинг System1 на 12.11 предварительный"
+                       "note":  "System1 12.11: топ-4 — супермаркеты (Morrisons, Sainsbury\u0027s, M\u0026S, Aldi), 8 роликов 5.9★; Aldi Kevin 5.9★ 4-й раз за 5 лет (17.11)"
+                   },
+                   {
+                       "name":  "AI-плагиат стиля в клипах (A$AP Rocky «Shroom Clouds»)",
+                       "dir":  "Кино/реклама",
+                       "dirKey":  "cinema",
+                       "status":  "🆕",
+                       "first":  "2026-11-19",
+                       "last":  "2026-11-19",
+                       "count":  1,
+                       "note":  "SoM 02.11: сходство с работами Cache Bunny и Ari Fararooy 2019; ответ Robert Gallardo"
                    },
                    {
                        "name":  "Длинный хиро-ролик + модульные нарезки под соцсети",
@@ -295,11 +335,11 @@
                        "name":  "Грейдинг внутри Premiere (Color Mode GA)",
                        "dir":  "Кино/реклама",
                        "dirKey":  "cinema",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-12",
-                       "last":  "2026-11-12",
-                       "count":  1,
-                       "note":  "Анонс NAB 2026, GA на MAX 10.11.2026"
+                       "last":  "2026-11-19",
+                       "count":  2,
+                       "note":  "Анонс NAB 2026, GA на MAX 10.11.2026; What\u0027s new 27.0: «от монтажа к цвету без разрыва»"
                    },
                    {
                        "name":  "Длинные генерации 30 с (Kling 4.0, Seedance 2.5)",
@@ -407,9 +447,9 @@
                        "dirKey":  "ai",
                        "status":  "📈",
                        "first":  "2026-11-10",
-                       "last":  "2026-11-18",
-                       "count":  5,
-                       "note":  "Анонс 27.10; 9to5Mac 05.11: «раскатывается»; Generate Fill — в Pixelmator, MCP — только iWork; FCP требует macOS 26.6+; + easing кейфреймов, connected clips где угодно"
+                       "last":  "2026-11-19",
+                       "count":  6,
+                       "note":  "19.11 — выход в App Store другими источниками не подтверждён; Анонс 27.10; 9to5Mac 05.11: «раскатывается»; Generate Fill — в Pixelmator, MCP — только iWork; FCP требует macOS 26.6+; + easing кейфреймов, connected clips где угодно"
                    }
                ],
     "insights":  [
@@ -423,23 +463,29 @@
                      "2026-11-12: Профессиональная пресса (Digital Production, SoM) сходится: генеративный контент сейчас ценен как временный материал для черновика/согласования темпа, а надёжнее всего AI в «скучных» задачах — кеинг, ротоскоп, разделение звука.",
                      "2026-11-17: Сериальная подача (нумерованные эпизоды + клиффхэнгер) вышла из Shorts Series в нативные TikTok-тренды; AI-визуал там — дешёвая подложка под нарратив или объект сравнения («я против AI»), а не самоцель. Фестивали (Camerimage) параллельно награждают аскетичный визуал: ч/б, один источник света.",
                      "2026-11-18: Ремесло в рекламе получило измеримое подтверждение (5.9★ System1 у стоп-моушна Aardman), AI-ролики — ярлык «slop». Apple в FCP делает ставку на встроенную библиотеку шаблонов (MotionVFX), а AI-ассистентов и MCP пока даёт другим приложениям пакета — у видеоредакторов AI-агенты внедряются неравномерно.",
+                     "2026-11-19: Тесты System1 дают максимальные оценки и ремеслу (Aardman), и AI (Coca-Cola 5.7★) — сильнее всего с эффективностью связаны повторяющиеся персонажи/ассеты бренда, а не техника производства. Для моушн-дизайнера ценен навык делать переиспользуемые персонажи и шаблоны (mogrt) для серий. Параллельно растёт риск обвинений в AI-плагиате стиля (клип A$AP Rocky).",
                      "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, Digital Production, AWN, School of Motion (Motion Mondays открывать напрямую по URL вида /blog/motion-mondays-\u003cмесяц\u003e-\u003cдень\u003e-2026), blog.google. The Drum и Creative Bloq через WebFetch возвращают пустую страницу — брать факты из сниппетов поиска с оговоркой. По MAX/крупным событиям лучше сразу mode \"extended\"."
                  ],
     "events":  [
                    "Adobe MAX 2026 прошёл 10–12.11. Следить: выход Generative Media Tool/аудио-инструментов из беты, страницы What\u0027s New Premiere/AE; локальный MCP для CC — начало 2027.",
                    "Apple Creator Studio: по 9to5Mac раскатка с 05.11 (подписчикам бесплатно); проверить версию FCP в App Store и судьбу разовой покупки FCP.",
-                   "School of Motion: портфолио-ревью 19.11, Figma Design for Motion — 23.11; Black Friday (даты не указаны).",
+                   "School of Motion: Figma Design for Motion — 23.11; Motion Mondays 23.11 проверить; Black Friday (даты не указаны).",
                    "Resolve: актуальная версия 21.2 (04.11).",
                    "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: только APK-тирдаун (04.11).",
-                   "Resolve Studio: скидка 20% до 20.11.2026.",
+                   "Resolve Studio: скидка до 20.11.2026 (цена $236/$239 — источники расходятся); после — убрать.",
                    "Runway: Gen-4.5 остаётся флагманом; хостит сторонние модели (Kling, Seedance, Wan, Veo); legacy Unlimited → Max, старые планы без изменений до 30.11.2026.",
                    "Google: видео-линейка на Gemini Omni (1.2 Flash GA 05.11); Veo 3.1 Preview в Gemini API закрыт 22.10.",
                    "Sora: веб/приложение закрыты 26.04.2026 (по сторонним источникам) — не считать активным инструментом.",
-                   "System1 обновляет рейтинг рождественских роликов (на 12.11 лидер Thatchers 5.9★) — следить за финалом.",
+                   "System1 обновляет рейтинг рождественских роликов: на 12.11 восемь роликов 5.9★ (Morrisons, Sainsbury\u0027s, M\u0026S, Aldi, Thatchers, Disney, Barbour, National Lottery), John Lewis 5.6★ — следить за финалом.",
                    "YouTube: порог монетизации Shorts 10 млн/90 дн — с февраля 2027.",
                    "Праздничный рекламный сезон 2026: John Lewis (03.11, live-action), Coca-Cola AI (3-й год). Dior — критика за AI (дата не подтверждена). Следить за реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-19",
+                        "preview":  "В рейтинге System1 восемь рождественских роликов получили максимальные 5.9 звезды. Общее у победителей — зн…",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 19.11.2026\u003c/b\u003e\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• В рейтинге System1 восемь рождественских роликов получили максимальные 5.9 звезды. Общее у победителей — знакомые персонажи (Kevin the Carrot, BFG, Daddy Bear), а не способ производства.\n• AI-ролик Coca-Cola получил 5.7 звезды и один из самых высоких Spike-рейтингов. Критика не мешает ему хорошо проходить тесты.\n• Клип A$AP Rocky «Shroom Clouds» обвиняют в том, что с помощью AI скопирован стиль работ других художников.\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 🆕 \u003cb\u003eПереход под «You Rock My World».\u003c/b\u003e Ещё одна смена образа в такт: по данным Virlo, тренд на пике, но мелкий (8 авторов за неделю). Срез сделан 31.10, поэтому данные могут устареть. \u003ca href=\"https://virlo.ai/blog/current-tiktok-trends\"\u003eисточник\u003c/a\u003e\n• 🔥 \u003cb\u003eUpside Down и Fan Transition\u003c/b\u003e остаются главными переходами со сменой образа. Новых форматов, подтверждённых свежими источниками, за сутки не нашлось.\n• По новым функциям Shorts, Reels и TikTok за неделю ничего не появилось.\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• 🆕 \u003cb\u003eAI Motion Designer от Higgsfield.\u003c/b\u003e Инструмент связывает ChatGPT с After Effects: описываешь задачу в чате, а в открытой композиции появляется графика с родными слоями и ключами, которые можно править. Нужны подписки Higgsfield, ChatGPT и Adobe. Статья вышла 12.09, но в базе её не было. \u003ca href=\"https://runtimewire.com/article/higgsfield-chatgpt-after-effects-ai-motion-designer-astra\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eCorridorKey 2.0.\u003c/b\u003e AI-кеинг обновился до второй версии. Есть платные плагины с отдельным приложением и бесплатная версия, которую запускаешь сам через Python. Кеинг остаётся одной из самых надёжных «скучных» AI-задач. \u003ca href=\"https://schoolofmotion.com/blog/motion-mondays-november-2-2026\"\u003eисточник\u003c/a\u003e\n• 🔥 \u003cb\u003eРучная анимация в цифрах.\u003c/b\u003e В топ-8 System1 два ролика Aardman (Thatchers и Barbour × Wallace \u0026amp; Gromit), оба со стоп-моушном и максимальной оценкой. \u003ca href=\"https://ppc.land/supermarkets-take-7-of-top-12-places-in-system1s-early-christmas-ad-rankings/\"\u003eисточник\u003c/a\u003e\n\n🎬 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 🆕 \u003cb\u003eСильнее всего работают знакомые персонажи.\u003c/b\u003e На 12.11 первые четыре места у супермаркетов: Morrisons, Sainsbury\u0027s, M\u0026amp;S и Aldi. System1 объясняет успех персонажами, которые возвращаются из года в год. 17.11 Kevin the Carrot (Aldi, McCann Manchester) получил 5.9 звезды в четвёртый раз за пять лет. Монтажёру отсюда вывод: собственные «ассеты» бренда ценнее модного приёма. \u003ca href=\"https://www.grocerygazette.co.uk/2026/11/17/aldis-kevin-the-carrot-scores-perfect-rating-for-christmas-ad/\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eAI-реклама тестируется хорошо.\u003c/b\u003e У Coca-Cola «Holidays Are Coming» (AI) 5.7 звезды и Spike 1.66 — выше только у двух лидеров (1.68). При этом сама System1 оговаривается, что данных для выводов об AI-производстве в целом мало. \u003ca href=\"https://ppc.land/supermarkets-take-7-of-top-12-places-in-system1s-early-christmas-ad-rankings/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eAI-плагиат в клипах.\u003c/b\u003e Создателей «Shroom Clouds» A$AP Rocky обвиняют в том, что они скопировали с помощью AI работы Cache Bunny и Ari Fararooy 2019 года. Сравнительный ролик опубликовал Stephan Fleet, Robert Gallardo ответил на обвинения. Если используешь AI-референсы, это риск и для репутации, и юридический. \u003ca href=\"https://schoolofmotion.com/blog/motion-mondays-november-2-2026\"\u003eисточник\u003c/a\u003e\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 🔥 \u003cb\u003ePremiere 27.0.\u003c/b\u003e На странице «What\u0027s new» главным пунктом назван переход от монтажа к цвету без смены приложения, то есть Color Mode. Подробностей в открытых источниках пока мало. \u003ca href=\"https://helpx.adobe.com/premiere-pro/kb/fixed-issues.html\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eFinal Cut Pro с MotionVFX.\u003c/b\u003e Обновление объявлено на ноябрь, но подтверждения, что оно уже в App Store, пока нет. Проверь вкладку «Обновления» в App Store. \u003ca href=\"https://macworld.com/article/3270683/apple-creator-studio-gets-a-major-ai-boost-with-latest-update.html\"\u003eисточник\u003c/a\u003e\n• ⏰ Скидка на Resolve Studio 21.2 заканчивается завтра, 20.11. Цены в источниках разные ($236 или $239), сверь на сайте Blackmagic. \u003ca href=\"https://www.newsshooter.com/2026/11/04/blackmagic-design-davinci-resolve-21-2/\"\u003eисточник\u003c/a\u003e\n• Новых видеомоделей от Kling, Runway, Luma и Pika за неделю не нашлось.\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nСобери «персонажа-ассет» для серии рилсов в After Effects. Сделай простого маскота или фирменный графический элемент (шейпы, 3–4 позы) и выведи его в Essential Graphics: цвет, текст реплики, выбор позы через Dropdown. Добавь 2–3 анимации (появление, реакция, уход) с одинаковым easing. Экспортируй как .mogrt и используй в Premiere в каждом эпизоде серии. Повторяющийся персонаж формирует узнаваемость, как Kevin the Carrot у Aldi.\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nПо данным System1, максимальные оценки получают и ремесло (стоп-моушн Aardman), и AI (Coca-Cola). Сильнее всего с успехом связано не то, как ролик сделан, а знакомые персонажи, которые возвращаются из года в год.\n"
+                    },
                     {
                         "date":  "2026-11-18",
                         "preview":  "Стоп-моушн Aardman для Thatchers получил максимальные 5.9 звезды в тесте System1: ручная работа выигрывает …",
