@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-20",
+    "updated":  "2026-11-21",
     "trends":  [
                    {
                        "name":  "Микро-истории \u003c 7 сек",
@@ -87,29 +87,39 @@
                        "dirKey":  "short",
                        "status":  "🔥",
                        "first":  "2026-11-18",
-                       "last":  "2026-11-20",
-                       "count":  3,
-                       "note":  "Virlo 29.10: на пике, 52 автора/нед (было 69); ремикс Diana Ross; 20.11 — Virlo: Peaking, 613 роликов с 23.08"
+                       "last":  "2026-11-21",
+                       "count":  4,
+                       "note":  "Virlo 29.10: на пике, 52 автора/нед (было 69); ремикс Diana Ross; 20.11 — Virlo: Peaking, 613 роликов с 23.08; 21.11 — 619"
                    },
                    {
-                       "name":  "Makeup loading percentage transition (смена образа + счётчик «загрузки»)",
+                       "name":  "Семейство «loading»-переходов (makeup loading %, 0→100 Loading Transformation, Halloween Costume Loading Reveal)",
                        "dir":  "Short-form",
                        "dirKey":  "short",
                        "status":  "🔥",
                        "first":  "2026-11-20",
-                       "last":  "2026-11-20",
-                       "count":  1,
-                       "note":  "Virlo 20.11: Peaking, с 22.09, 659 роликов"
+                       "last":  "2026-11-21",
+                       "count":  2,
+                       "note":  "Virlo 20.11: makeup loading Peaking, с 22.09, 659; 21.11 — 664 + вариации на другие поводы в списке"
                    },
                    {
                        "name":  "«My Moon My Man» couple montage",
                        "dir":  "Short-form",
                        "dirKey":  "short",
-                       "status":  "🆕",
+                       "status":  "📈",
                        "first":  "2026-11-20",
-                       "last":  "2026-11-20",
+                       "last":  "2026-11-21",
+                       "count":  2,
+                       "note":  "Virlo 21.11: Rising, first seen 26.10, 1 290 роликов / 1 268 авторов (№3 месяца)"
+                   },
+                   {
+                       "name":  "Рождественские переходы под сезонные треки (Mariah Carey «It\u0027s Time», «Last Christmas X Phat»)",
+                       "dir":  "Short-form",
+                       "dirKey":  "short",
+                       "status":  "🆕",
+                       "first":  "2026-11-21",
+                       "last":  "2026-11-21",
                        "count":  1,
-                       "note":  "Virlo 20.11: Fresh с 12.11 (675 роликов), родственный формат Rising с 26.10"
+                       "note":  "Virlo 21.11: в списке без стадии/цифр — начало сезонного цикла"
                    },
                    {
                        "name":  "Переход-смена образа под «You Rock My World» (Michael Jackson)",
@@ -187,9 +197,19 @@
                        "dirKey":  "motion",
                        "status":  "📈",
                        "first":  "2026-11-07",
-                       "last":  "2026-11-17",
-                       "count":  6,
-                       "note":  "Вендорские обзоры 2026; №1 в списках. Контрсигнал advids: в UI-видео доля упала (28/60 в Q1 → 14/40 апр–авг). 17.11 — сдвиг к «осмысленному» движению вместо хаоса"
+                       "last":  "2026-11-21",
+                       "count":  7,
+                       "note":  "Вендорские обзоры 2026; №1 в списках. Контрсигнал advids: в UI-видео доля упала (28/60 в Q1 → 14/40 апр–авг). 17.11 — сдвиг к «осмысленному» движению вместо хаоса; 21.11 — fueler (прогноз 2027): простое движение дешевеет, ценность — концепция/тайминг/полировка"
+                   },
+                   {
+                       "name":  "Несовместимость Cineware AE 2027 ↔ C4D 2027",
+                       "dir":  "Motion",
+                       "dirKey":  "motion",
+                       "status":  "🆕",
+                       "first":  "2026-11-21",
+                       "last":  "2026-11-21",
+                       "count":  1,
+                       "note":  "Баг-репорт Adobe Community 16.11: работает только с C4D 2026; официального ответа нет"
                    },
                    {
                        "name":  "Гибрид CG + AI в студийном пайплайне; фото → 3D-сцена (EVRN)",
@@ -347,9 +367,9 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-19",
-                       "last":  "2026-11-20",
-                       "count":  2,
-                       "note":  "20.11 — Aldi: 7-й подряд ролик с 5+★; System1 12.11: топ-4 — супермаркеты (Morrisons, Sainsbury\u0027s, M\u0026S, Aldi), 8 роликов 5.9★; Aldi Kevin 5.9★ 4-й раз за 5 лет (17.11)"
+                       "last":  "2026-11-21",
+                       "count":  3,
+                       "note":  "21.11 — ppc.land: Morrisons и Sainsbury\u0027s делят 1-е (5.9★, Spike 1.68), супермаркеты 7/12, John Lewis 5.6★; 20.11 — Aldi: 7-й подряд ролик с 5+★; System1 12.11: топ-4 — супермаркеты (Morrisons, Sainsbury\u0027s, M\u0026S, Aldi), 8 роликов 5.9★; Aldi Kevin 5.9★ 4-й раз за 5 лет (17.11)"
                    },
                    {
                        "name":  "AI-плагиат стиля в клипах (A$AP Rocky «Shroom Clouds»)",
@@ -387,9 +407,19 @@
                        "dirKey":  "cinema",
                        "status":  "📈",
                        "first":  "2026-11-12",
-                       "last":  "2026-11-19",
-                       "count":  2,
-                       "note":  "Анонс NAB 2026, GA на MAX 10.11.2026; What\u0027s new 27.0: «от монтажа к цвету без разрыва»"
+                       "last":  "2026-11-21",
+                       "count":  3,
+                       "note":  "Анонс NAB 2026, GA на MAX 10.11.2026; What\u0027s new 27.0: «от монтажа к цвету без разрыва»; PetaPixel 10.11"
+                   },
+                   {
+                       "name":  "Монтаж по тексту Paper Edit (Premiere Beta 27.1)",
+                       "dir":  "AI/софт",
+                       "dirKey":  "ai",
+                       "status":  "🆕",
+                       "first":  "2026-11-21",
+                       "last":  "2026-11-21",
+                       "count":  1,
+                       "note":  "Только сообщения на форуме Adobe Community — не подтверждено официально"
                    },
                    {
                        "name":  "Длинные генерации 30 с (Kling 4.0, Seedance 2.5)",
@@ -525,13 +555,16 @@
                      "2026-11-18: Ремесло в рекламе получило измеримое подтверждение (5.9★ System1 у стоп-моушна Aardman), AI-ролики — ярлык «slop». Apple в FCP делает ставку на встроенную библиотеку шаблонов (MotionVFX), а AI-ассистентов и MCP пока даёт другим приложениям пакета — у видеоредакторов AI-агенты внедряются неравномерно.",
                      "2026-11-19: Тесты System1 дают максимальные оценки и ремеслу (Aardman), и AI (Coca-Cola 5.7★) — сильнее всего с эффективностью связаны повторяющиеся персонажи/ассеты бренда, а не техника производства. Для моушн-дизайнера ценен навык делать переиспользуемые персонажи и шаблоны (mogrt) для серий. Параллельно растёт риск обвинений в AI-плагиате стиля (клип A$AP Rocky).",
                      "2026-11-20: Трекинговая 3D-графика и библиотеки шаблонов встраиваются прямо в монтажки (FCP + MotionVFX), причём как бонус подписки, а не разовой покупки. В TikTok живут «семейства» форматов (смена образа: Upside Down, Fan, загрузка в процентах) по 2–3 месяца — выгоднее делать гибкий шаблон под формат, чем под отдельный звук. Колористы параллельно отходят от шаблонного «film look» к сдержанному грейду.",
+                     "2026-11-21: Удачный приём TikTok отрывается от исходного повода («загрузка» → макияж, Хэллоуин, «0→100»), а с конца ноября лента переключается на рождественские треки — выгоднее сезонный шаблон с переменными элементами. Мажорные годовые релизы софта (AE 2027 / C4D 2027) ломают межпрограммные связки — версии фиксировать на время проекта.",
                      "Заметка о поиске: по short-form и рекламе выдача забита вендорскими SEO-блогами без свежих дат; надёжнее — newsroom CapCut, RedShark, Newsshooter, No Film School, Digital Production, AWN, School of Motion (Motion Mondays открывать напрямую по URL вида /blog/motion-mondays-\u003cмесяц\u003e-\u003cдень\u003e-2026), blog.google, помесячный трекер virlo.ai/trends/ГГГГ-ММ (стадии и даты трендов TikTok/IG). The Drum и Creative Bloq через WebFetch возвращают пустую страницу — брать факты из сниппетов поиска с оговоркой. По MAX/крупным событиям лучше сразу mode \"extended\"."
                  ],
     "events":  [
                    "Adobe MAX 2026 прошёл 10–12.11. Следить: выход Generative Media Tool/аудио-инструментов из беты, страницы What\u0027s New Premiere/AE; локальный MCP для CC — начало 2027.",
                    "Apple: FCP с MotionVFX вышел 17.11 (только Creator Studio); разовая покупка FCP ($299.99) новинок не получает — следить, будут ли её обновлять.",
                    "School of Motion: Figma Design for Motion — 23.11; Motion Mondays 23.11 проверить; Black Friday 27.11–02.12 (−25% годовой All-Access).",
-                   "Resolve: актуальная версия 21.2 (04.11).",
+                   "Resolve: актуальная версия 21.2 (04.11); скидка на Studio закончилась 20.11.",
+                   "Adobe: Premiere Beta 27.1 (Paper Edit — слух с форума); Cineware AE 2027 не работает с C4D 2027 — следить за фиксом.",
+                   "TikTok: начался рождественский сезон звуков/переходов — следить в virlo.ai/trends/2026-11 и 2026-12.",
                    "CapCut World London — ноябрь 2026 (точная дата не найдена). CapCut 20.0: только APK-тирдаун (04.11).",
                    "Runway: Gen-4.5 остаётся флагманом; хостит сторонние модели (Kling, Seedance, Wan, Veo); legacy Unlimited → Max, старые планы без изменений до 30.11.2026.",
                    "Google: видео-линейка на Gemini Omni (1.2 Flash GA 05.11); Veo 3.1 Preview в Gemini API закрыт 22.10.",
@@ -541,6 +574,11 @@
                    "Праздничный рекламный сезон 2026: John Lewis (03.11, live-action), Coca-Cola AI (3-й год). Dior — критика за AI (дата не подтверждена). Следить за реакцией."
                ],
     "reports":  [
+                    {
+                        "date":  "2026-11-21",
+                        "preview":  "«Загрузка в процентах» в TikTok превратилась в целое семейство форматов, а в ленту заходят первые рождестве…",
+                        "html":  "🎬 \u003cb\u003eТренды монтажа — 21.11.2026\u003c/b\u003e\n\n⚡ \u003cb\u003eГлавное за сегодня\u003c/b\u003e\n• «Загрузка в процентах» в TikTok превратилась в целое семейство форматов, а в ленту заходят первые рождественские переходы.\n• Cineware в After Effects 2027 не работает с Cinema 4D 2027: пользователи сообщают о баге с 16.11.\n• В рейтинге рождественских роликов System1 лидируют Morrisons и Sainsbury\u0027s, супермаркеты заняли 7 из 12 мест.\n\n📱 \u003cb\u003eShort-form\u003c/b\u003e\n• 🔥 \u003cb\u003eСемейство «loading»-переходов.\u003c/b\u003e Трекер Virlo (обновлён 21.11): Makeup loading percentage на пике (664 ролика), рядом в списке появились «0 to 100 Percent Loading Transformation» и «Halloween Costume Loading Reveal». Приём со счётчиком отделился от макияжа и теперь подходит для любого «до/после». \u003ca href=\"https://virlo.ai/trends/2026-11\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003e«My Moon My Man» couple montage\u003c/b\u003e перешёл в стадию Rising: 1 290 роликов от 1 268 авторов. Это хорошая заготовка под заказы «для пары» перед праздниками. \u003ca href=\"https://virlo.ai/trends/2026-11\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eРождественские переходы.\u003c/b\u003e В ноябрьском списке Virlo уже есть «Mariah Carey It\u0027s Time Christmas Transition» и «Last Christmas X Phat Winter Dance». Стадии трекер для них пока не показывает, но сезонный цикл начался, так что шаблоны стоит готовить заранее. \u003ca href=\"https://virlo.ai/trends/2026-11\"\u003eисточник\u003c/a\u003e\n• 🔥 Upside Down makeup transition по-прежнему на пике (619 роликов). Формат «смены образа» держится уже четвёртый месяц. \u003ca href=\"https://virlo.ai/trends/2026-11\"\u003eисточник\u003c/a\u003e\n\n✨ \u003cb\u003eMotion design\u003c/b\u003e\n• 🆕 \u003cb\u003eCineware ломается на C4D 2027.\u003c/b\u003e В баг-репорте 16.11 пишут, что встроенный Cineware в AE 2027 (27.0) загружается только с Cinema 4D 2026. Официального ответа Adobe пока нет. Если сцены из C4D идут в AE, не обновляй Cinema 4D посреди проекта. \u003ca href=\"https://community.adobe.com/bug-reports-528/cineware-in-after-effects-2027-27-0-still-requires-cinema-4d-2026-will-not-work-with-cinema-4d-2027-1656340\"\u003eисточник\u003c/a\u003e\n• 📈 \u003cb\u003eКинетическая типографика: ставка на смысл.\u003c/b\u003e Прогноз на 2027 год: простое движение дешевеет, поэтому ценность моушн-дизайнера смещается в концепцию, тайминг и полировку. Анимированный текст по-прежнему держит ролики, которые смотрят без звука. \u003ca href=\"https://fueler.io/blog/top-motion-graphics-trends-to-watch\"\u003eисточник\u003c/a\u003e\n• 23.11 в School of Motion стартует Figma Design for Motion, Black Friday пройдёт 27.11–02.12. \u003ca href=\"https://schoolofmotion.com/blog/black-friday-2026\"\u003eисточник\u003c/a\u003e\n\n🎬 \u003cb\u003eКино, клипы, реклама\u003c/b\u003e\n• 📈 \u003cb\u003eРейтинг рождественской рекламы System1.\u003c/b\u003e Morrisons и Sainsbury\u0027s делят первое место: 5.9★ и Spike 1.68. Супермаркеты занимают 7 мест из 12, у John Lewis 5.6★. Это ещё одно подтверждение, что в рекламе лучше всего работают знакомые герои и тёплый нарратив. \u003ca href=\"https://ppc.land/supermarkets-take-7-of-top-12-places-in-system1s-early-christmas-ad-rankings/\"\u003eисточник\u003c/a\u003e\n• 🆕 \u003cb\u003eСвежие клипы (IMVDB, 12.11):\u003c/b\u003e The Weeknd «Hong Kong» в режиссуре Evan Larson, новые видео Michael Kiwanuka (Jeremy Ngatho Cole и Marco Grey) и Friendly Fires (Jack Pell). Их стоит посмотреть как референс ритма. \u003ca href=\"https://imvdb.com/calendar/2026/11/12\"\u003eисточник\u003c/a\u003e\n• Интервью MPA (06.11) с монтажёром Daniel Garber о работе над «Primetime». \u003ca href=\"https://www.motionpictures.org/category/profiles/editor\"\u003eисточник\u003c/a\u003e\n\n🤖 \u003cb\u003eAI и софт\u003c/b\u003e\n• 🆕 \u003cb\u003ePremiere Beta 27.1: Paper Edit.\u003c/b\u003e На форумах Adobe пишут о бета-сборке 27.1 с функцией Paper Edit для монтажа по тексту. Официально это пока не подтверждено, так что относись как к слуху. \u003ca href=\"https://community.adobe.com/premiere-beta-731/index3.html\"\u003eисточник\u003c/a\u003e\n• 📈 В Premiere 27.0 Color Mode вышел из беты. Generative Remove (удаление объектов из видео, например микрофона-«удочки») пока остаётся в бете. \u003ca href=\"https://petapixel.com/2026/11/10/premiere-update-brings-color-mode-out-of-beta-plus-generative-video-ai-audio-tools/\"\u003eисточник\u003c/a\u003e\n• Новых видеомоделей (Kling, Runway, Luma, Google) за неделю нет. Resolve по-прежнему на версии 21.2, скидка на Studio закончилась 20.11. \u003ca href=\"https://www.newsshooter.com/2026/11/04/blackmagic-design-davinci-resolve-21-2/\"\u003eисточник\u003c/a\u003e\n\n🧪 \u003cb\u003eПопробуй сегодня\u003c/b\u003e\nРождественский переход «обычный → праздничный» в Premiere или CapCut. Сними два дубля с одной точки (без декора и с декором/образом) и поставь маркер на акцент в треке. За 6–8 кадров до маркера дай Scale 100→112 с easing, на самом маркере склей и дай белую вспышку на 2 кадра. Поверх «после» наложи снег: в AE эффект CC Snowfall на чёрном солиде в режиме Screen, затем отрендери с альфой. Сохрани всё как шаблон с заменяемыми клипами, чтобы в декабре быстро делать такие ролики под разные звуки.\n\n📚 \u003cb\u003eАгент узнал\u003c/b\u003e\nУдачный приём в TikTok отрывается от исходного повода («загрузка» перешла с макияжа на Хэллоуин и «0→100»), а к концу ноября лента переключается на рождественские звуки. Выгоднее держать сезонный шаблон с переменными элементами. Отдельный вывод: мажорные обновления софта ломают связки между программами (Cineware), поэтому версии стоит фиксировать на время проекта.\n"
+                    },
                     {
                         "date":  "2026-11-20",
                         "preview":  "Apple выпустила обновление Final Cut Pro с библиотекой MotionVFX, но только для подписчиков Creator Studio.",
